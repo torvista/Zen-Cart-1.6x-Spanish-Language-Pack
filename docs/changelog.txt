@@ -1,0 +1,5 @@
+Changelog
+
+2016 06 05
+initial comparison with Zen Cart 1.6 pre-alpha Github version 2016 06 05
+check of main spanish.php and locale.php, addition of new files
