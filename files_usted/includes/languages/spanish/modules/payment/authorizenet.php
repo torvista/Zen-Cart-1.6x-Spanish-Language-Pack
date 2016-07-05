@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.5: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //TODO Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * Authorize.net SIM Payment Module
  *

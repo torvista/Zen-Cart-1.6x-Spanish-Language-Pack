@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
  * @copyright Copyright 2003-2016 Zen Cart Development Team
@@ -7,7 +7,7 @@
  * @version $Id: Author: bislewl  Tue Feb 16 23:14:29 2016 -0600 Modified in v1.5.5 $
  */
 
-define('HEADING_TITLE', 'Identificación del Administrador');
+define('HEADING_TITLE', 'Admin Login');
 define('HEADING_TITLE_EXPIRED', 'Admin Login - Contraseña Caducada');
 
 define('TEXT_LOGIN','Login');

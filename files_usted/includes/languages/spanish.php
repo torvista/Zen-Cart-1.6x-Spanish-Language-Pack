@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2016 Zen Cart Development Team
@@ -355,7 +355,7 @@
   define('PRODUCT_PRICE_DISCOUNT_AMOUNT', '&nbsp;descuento');
 
 // Sale Maker Sale Price
-  define('PRODUCT_PRICE_SALE', 'Venta:&nbsp;');
+  define('PRODUCT_PRICE_SALE','<span class="sale-banner">Sale:</span> ');//TODO
 
 // banner_box
   define('BOX_HEADING_BANNER_BOX', 'Patrocinador');
@@ -379,7 +379,7 @@
   define('TEXT_INFO_SORT_BY', 'Ordenar por: ');
 
 // close window image popups
-  define('TEXT_CLOSE_WINDOW',' - Haga click en la imagen para cerrar');
+  define('TEXT_CLOSE_IMAGE_WINDOW',' - Haga click en la imagen para cerrar');
 // close popups
   define('TEXT_CURRENT_CLOSE_WINDOW','[ Cerrar ventana ]');
 
@@ -396,6 +396,7 @@
   define('TEXT_BEFORE_DOWN_FOR_MAINTENANCE', 'AVISO: Esta página web no estará operativa por razones de mantenimiento: ');
   define('TEXT_ADMIN_DOWN_FOR_MAINTENANCE', 'AVISO: Esta página web no está operativa por razones de mantenimiento');
 
+  define('TEXT_FREE', '¡Gratis!');
   define('PRODUCTS_PRICE_IS_FREE_TEXT', '¡Es gratis!');
   define('PRODUCTS_PRICE_IS_CALL_FOR_PRICE_TEXT', 'Llame para saber el precio');
   define('TEXT_CALL_FOR_PRICE', 'Llame para saber el precio');
@@ -559,6 +560,7 @@
   define('TABLE_HEADING_QUANTITY', 'Cantidad');
   define('TABLE_HEADING_PRODUCTS', 'Nombre');
   define('TABLE_HEADING_TOTAL', 'Total');
+  define('TEXT_REFRESH', 'Refrescar');
 
 // create account - login shared
   define('TABLE_HEADING_PRIVACY_CONDITIONS', 'Privacidad');

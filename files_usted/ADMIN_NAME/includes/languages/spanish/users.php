@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
  * @copyright Copyright 2003-2014 Zen Cart Development Team
@@ -9,26 +9,13 @@
 
 define('HEADING_TITLE', 'Usuarios Admin');
 
-define('IMAGE_ADD_USER', 'Añadir Usuario');
+define('TEXT_LEAD_ACTION_LIST', 'Mostrar Usuarios');
+define('TEXT_LEAD_ACTION_ADD_ENTRY', 'Añadir Usuario');
 
-define('TEXT_ID', 'ID');
-define('TEXT_NAME', 'Nombre');
-define('TEXT_EMAIL', 'Email');
-define('TEXT_MOBILE', 'Teléfono Movil');
-define('TEXT_PROFILE', 'Perfil');
-define('TEXT_CHOOSE_PROFILE', 'Elegir Perfil');
-define('TEXT_PASSWORD', 'Contraseña');
-define('TEXT_CONFIRM_PASSWORD', 'Confirmar Contraseña');
-define('TEXT_NO_USERS_FOUND', 'No hay Usuarios Admin');
-define('TEXT_CONFIRM_DELETE', 'Petición de Eliminación. Confirmación: ');
+define('TEXT_ENTRY_ADMIN_NAME', 'Nombre');
+define('TEXT_ENTRY_ADMIN_EMAIL', 'Email');
+define('TEXT_ENTRY_MOBILE_PHONE', 'Teléfono Movil');
+define('TEXT_ENTRY_ADMIN_PROFILE', 'Perfil Admin');
 
-define('ERROR_NO_USER_DEFINED', 'Hay que seleccionar un usuario para esta opción');
-define('ERROR_USER_MUST_HAVE_PROFILE', 'Cada usuario debe tener asignado un perfil.');
-define('ERROR_DUPLICATE_USER', 'Ese nombre de usuario ya existe. Hay que seleccionar otro nombre.');
-define('ERROR_ADMIN_NAME_TOO_SHORT', 'Los nombre de Usuarios Admin deben tener por los menos %s carácteres');
-define('ERROR_PASSWORD_TOO_SHORT', 'Las contraseñas deben tener por los menos %s carácteres');
-define('SUCCESS_NEW_USER_ADDED', 'Usuario nuevo añadido');
-define('SUCCESS_USER_DETAILS_UPDATED', 'Datos de usuario actualizados');
-define('SUCCESS_PASSWORD_UPDATED', 'Contraseña actualizada');
-define('ERROR_ADMIN_INVALID_EMAIL_ADDRESS', 'Lo siento, el email que tecleó contiene carácteres no válidos.');
-define('ERROR_ADMIN_INVALID_CHARS_IN_USERNAME', 'Lo siento, el nombre de usuario admin que tecleó contiene carácteres no válidos.');
+define('TEXT_ENTRY_PASSWORD_MAIN', 'Contraseña');
+define('TEXT_ENTRY_PASSWORD_CONFIRM', 'Confirmar Contraseña');

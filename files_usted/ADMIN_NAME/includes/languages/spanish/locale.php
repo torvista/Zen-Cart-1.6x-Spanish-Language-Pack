@@ -1,5 +1,5 @@
-<?php //Spanish Language Pack for Zen Cart 1.5: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
-/** 񺠴o maintain this file as utf-8, as there are no other multibyte chars in the file.
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
+/** "ñ": to maintain this file as utf-8, as there are no other multibyte chars in the file.
  * @package admin
  * @copyright Copyright 2003-2013 Zen Cart Development Team
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
@@ -9,7 +9,7 @@
 
 // look in your $PATH_LOCALE/locale directory for available locales..
 // recommended to list all values for your language in this array. And include at least the 3 versions: 'es_ES.UTF8', 'Spanish_Spain.1252', 'es'. These help support multiple server configurations (since IIS and Windows are less reliably configured)
-$locales = array('es_ES.UTF8', 'Spanish_Spain.1252', 'es');
+$locales = array('es_ES.UTF8', 'es', 'Spanish_Spain.1252');
 
 // For the most part, LC_TIME is fine here. On rare occasions you might need to change this to LC_ALL.
 setlocale(LC_TIME, $locales);

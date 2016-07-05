@@ -1,24 +1,11 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
-//
-// +----------------------------------------------------------------------+
-// |zen-cart Open Source E-commerce                                       |
-// +----------------------------------------------------------------------+
-// | Copyright (c) 2003 The zen-cart developers                           |
-// |                                                                      |
-// | http://www.zen-cart.com/index.php                                    |
-// |                                                                      |
-// | Portions Copyright (c) 2003 osCommerce                               |
-// +----------------------------------------------------------------------+
-// | This source file is subject to version 2.0 of the GPL license,       |
-// | that is bundled with this package in the file LICENSE, and is        |
-// | available through the world-wide-web at the following url:           |
-// | http://www.zen-cart.com/license/2_0.txt.                             |
-// | If you did not receive a copy of the zen-cart license and are unable |
-// | to obtain it through the world-wide-web, please send a note to       |
-// | license@zen-cart.com so we can mail you a copy immediately.          |
-// +----------------------------------------------------------------------+
-//  $Id: gv_sent.php 2388 2005-11-18 00:18:35Z ajeh $
-//
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
+/**
+ * @package admin
+ * @copyright Copyright 2003-2016 Zen Cart Development Team
+ * @copyright Portions Copyright 2003 osCommerce
+ * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
+ * @version $Id:$
+ */
 
 define('HEADING_TITLE', 'Tarjetas Regalo Enviados');
 
@@ -33,9 +20,8 @@ define('TEXT_INFO_SENDERS_ID', 'ID de Remitente:');
 define('TEXT_INFO_AMOUNT_SENT', 'Valor:');
 define('TEXT_INFO_DATE_SENT', 'Fecha del Envío:');
 define('TEXT_INFO_VOUCHER_CODE', TEXT_GV_REDEEM . ':');
-define('TEXT_INFO_EMAIL_ADDRESS', 'Email:');
+define('TEXT_INFO_EMAIL_ADDRESS', 'Enviado a (email):');
 define('TEXT_INFO_DATE_REDEEMED', 'Fecha de Canje:');
 define('TEXT_INFO_IP_ADDRESS', 'Dirección IP:');
 define('TEXT_INFO_CUSTOMERS_ID', 'ID de Cliente:');
 define('TEXT_INFO_NOT_REDEEMED', 'Sin Canjear');
-?>

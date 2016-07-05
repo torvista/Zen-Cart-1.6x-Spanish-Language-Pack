@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
  * @copyright Copyright 2015 Zen Cart Development Team
@@ -13,10 +13,13 @@ define('DB_LIST', 'Tablas Nuevas de la BBDD');
 define('MODULE_LIST', 'Módulos Nuevos'); 
 define('MISSING_ADMIN_PAGES', 'Páginas de Configuración Admin no encontradas'); 
 define('HEADING_PAGE_NAME', 'Nombre Página'); 
-define('HEADING_PAGE_MENU_KEY', 'Menu Key'); 
+define('HEADING_PAGE_MENU_KEY', 'Menu Key');
 define('HEADING_PAGE_LINK', 'Enlace'); 
 define('HEADING_DISPLAY', 'Mostrar'); 
-
+define('HEADING_TABLE_NAME', 'Nombre Tabla');
+define('HEADING_MODULE_TYPE', 'Tipo Módulo');
+define('HEADING_MODULE_NAME', 'Nombre Módulo');
+define('HEADING_MISSING_ADMIN_PAGE', 'Página Admin No Encontrada');
 define('NO_EXTRAS', 'Ningún módulo adicional');
 define('NO_LINK', 'No se puede crear el enlace'); 
 define('NO_PAGES_TABLE_FOUND', 'Tabla Admin Pages no encontrada ');

@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
  * @copyright Copyright 2003-2016 Zen Cart Development Team
@@ -16,10 +16,9 @@ define('BOX_ENTRY_SUPPORT_SITE', 'Sitio de Soporte');
 define('BOX_ENTRY_SUPPORT_FORUMS', 'Foros de Soporte');
 define('BOX_ENTRY_MAILING_LISTS', 'Listas de Correo');
 define('BOX_ENTRY_BUG_REPORTS', 'Informes de Errores');
-
 define('BOX_ENTRY_FAQ', 'FAQ');
 define('BOX_ENTRY_LIVE_DISCUSSIONS', 'Discusiones en Directo');
-define('BOX_ENTRY_CVS_REPOSITORY', 'Repositorio CVS');
+define('BOX_ENTRY_VCS_REPOSITORY', 'Repositorio VCS');
 define('BOX_ENTRY_INFORMATION_PORTAL', 'Portal de Información');
 
 define('BOX_CONNECTION_PROTECTED', 'Usted está protegido por una %s conexión segura SSL.');

@@ -1,11 +1,14 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
- * @copyright Copyright 2003-2015 Zen Cart Development Team
+ * @copyright Copyright 2003-2016 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id:  Modified in v1.6.0 $
  */
+
+// NOTE: In v1.6.0, this has been converted to a LEAD page. See:
+// includes/library/zencart/QueryBuilderDefinitions/src/definitions/ReportStatsProductsPurchased.php
 
 define('HEADING_TITLE', 'Productos Más Vendidos');
 

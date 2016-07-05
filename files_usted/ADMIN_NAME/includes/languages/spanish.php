@@ -1,7 +1,7 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: http://zencartspanish.svn.sourceforge.net/viewvc/zencartspanish/
+<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
- * @copyright Copyright 2003-2015 Zen Cart Development Team
+ * @copyright Copyright 2003-2016 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id:  Modified in v1.6.0 $
@@ -42,7 +42,7 @@ define('HEADER_TITLE_TOP', 'Inicio');
 define('HEADER_TITLE_SUPPORT_SITE', 'Ayuda');
 define('HEADER_TITLE_ONLINE_CATALOG', 'Catálogo');
 define('HEADER_TITLE_VERSION', 'Versión');
-define('HEADER_TITLE_ACCOUNT', 'Cuenta');
+define('HEADER_TITLE_ACCOUNT', 'Mi Cuenta');
 define('HEADER_TITLE_LOGOFF', 'Salir');
 //define('HEADER_TITLE_ADMINISTRATION', 'Administración');
 
@@ -150,7 +150,6 @@ define('BOX_TOOLS_CACHE', 'Control del Caché');
 define('BOX_TOOLS_DEFINE_LANGUAGE', 'Definir Idiomas');
 define('BOX_TOOLS_FILE_MANAGER', 'Gestionar Ficheros');
 define('BOX_TOOLS_MAIL', 'Enviar Correo');
-define('BOX_TOOLS_NEWSLETTER_MANAGER', 'Admin. Boletines');
 define('BOX_TOOLS_SERVER_INFO', 'Info. del Servidor');
 define('BOX_TOOLS_WHOS_ONLINE', 'Quién Está Conectado');
 define('BOX_TOOLS_STORE_MANAGER', 'Gestionar Tienda');
@@ -570,6 +569,8 @@ define('ERROR_USPS_STATUS', '<strong>Atención:</strong> No se encuentra el nomb
 define('ERROR_SHIPPING_MODULES_NOT_DEFINED', 'AVISO: No hay módulos de envío habilitados. Vea Módulos->Envío para configurar.');
 define('ERROR_PAYMENT_MODULES_NOT_DEFINED', 'AVISO: No hay módulos de pago habilitados. Vea Módulos->Pago para configurar.');
 
+define('TEXT_TOTAL_WEIGHT', 'Peso Total: %s ' . TEXT_PRODUCT_WEIGHT_UNIT);
+
 // text pricing
 define('TEXT_CHARGES_WORD', 'Cobro calculado:');
 define('TEXT_PER_WORD','<br />Precio por palabra: ');
@@ -733,7 +734,7 @@ define('TEXT_LEAD_EDIT', 'Editar');
 define('TEXT_LEAD_DELETE', 'Borrar');
 define('TEXT_LEAD_ADD_ENTRY', 'Añadir Entrada');
 define('TEXT_LEAD_EDIT_ENTRY', 'Editar Entrada');
-define('TEXT_PAGINATION_LIMIT_SELECT', 'Seleccione cantidad por página');//TODO steve check
+define('TEXT_PAGINATION_LIMIT_SELECT', 'Entradas por página');
 define('TEXT_LEAD_ACTION', 'Acción');
 define('TEXT_ALL', 'Todo');
 define('TEXT_ENABLED', 'Habilitado');
