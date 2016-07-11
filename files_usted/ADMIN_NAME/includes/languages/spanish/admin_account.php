@@ -6,12 +6,12 @@
  * @version $Id: admin_account.php 18698 2011-05-04 14:50:06Z wilt $
  */
 
-define('HEADING_TITLE', 'Cuenta de Admins');
+define('HEADING_TITLE', 'Cuentas de Administradores');
 
 define('TEXT_ADMIN_NAME', 'Usuario:');
 define('TEXT_CHANGE_PASSWORD', 'Cambiar Contraseña');
 define('TEXT_ADMIN_OLD_PASSWORD', 'Contraseña Actual:');
 define('TEXT_ADMIN_NEW_PASSWORD', 'Contraseña Nueva:');
 define('TEXT_ADMIN_CONFIRM_PASSWORD', 'Confirmar Contraseña:');
-
+define('SUCCESS_PASSWORD_UPDATED', 'Contraseña actualizada.'); 
 // additional defines shared from users.php

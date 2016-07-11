@@ -1,7 +1,7 @@
 <?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
 /**
  * @package admin
- * @copyright Copyright 2003-2014 Zen Cart Development Team
+ * @copyright Copyright 2003-2016 Zen Cart Development Team
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: $
  */
@@ -20,6 +20,7 @@ define('LOGS_GROUP', 'Historiales Debug');
 define('BANNER_STATISTICS_GROUP', 'Estadísticas Banner');
 define('WHOSONLINE_GROUP', 'Visitores Activos');
 define('COUNTER_HISTORY_GRAPH_GROUP', 'Gráfico Historial Contador');
+define('SALES_GRAPH_REPORT_GROUP', 'Ventas');
 
 // Entries in dashboard_widgets_description
 define('GENERAL_STATISTICS', 'Estadísticas Generales');
@@ -32,6 +33,7 @@ define('LOGS', 'Historiales Debug');
 define('BANNER_STATISTICS', 'Estadísticas Banner');
 define('WHOSONLINE_ACTIVITY', 'Visitores Activos');
 define('COUNTER_HISTORY_GRAPH', 'Historial Contador - Últimos 14 días');
+define('SALES_GRAPH_REPORT', 'Ventas');
 
 define('TEXT_TOTAL_LOGFILES_FOUND', '<br>Nota: Hay %s archivos historiales en el servidor.');
 define('TEXT_DISPLAYING_RECENT_COUNT', ' (Mostrando solamente los %s archivos más recientes.)');
@@ -51,6 +53,11 @@ define('WHOS_ONLINE_INACTIVE_TEXT', 'Carro Inactivo');
 define('WHOS_ONLINE_ACTIVE_NO_CART_TEXT', 'Activo sin carro');
 define('WHOS_ONLINE_INACTIVE_NO_CART_TEXT', 'Inactivo sin carro');
 
+// ===== Sales Graph Widget
+define('SALES_GRAPH_TEXT_MONTHLY', 'Ventas Mensuales (excl. el envío)');
+define('SALES_GRAPH_TEXT_CLICK', 'Pinche aquí para los detalles completos...');
+define('SALES_GRAPH_COLUMN_MONTH', 'Mes');
+define('SALES_GRAPH_COLUMN_SALES', 'Ventas');
 
 
 

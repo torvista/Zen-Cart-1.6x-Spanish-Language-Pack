@@ -4,7 +4,7 @@
  * @copyright Copyright 2003-2016 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
- * @version $Id: Author: DrByte  Sun Feb 28 02:42:59 2016 -0500 Modified in v1.5.5 $
+ * @version $Id: orders.php  Modified in v1.6.0 $
  */
 
 define('HEADING_TITLE', 'Pedidos');
@@ -19,7 +19,7 @@ define('TEXT_INFO_SEARCH_DETAIL_FILTER_ORDERS_PRODUCTS', 'Filtro de Búsqueda: '
 define('TABLE_HEADING_PAYMENT_METHOD', 'Pago-Envío');
 define('TABLE_HEADING_ORDERS_ID','ID');
 
-define('TEXT_BILLING_SHIPPING_MISMATCH','La dirección de facturación y del envío no coinciden ');
+define('TEXT_BILLING_SHIPPING_MISMATCH','La dirección de Facturación y del Envío no coinciden ');
 
 define('TABLE_HEADING_COMMENTS', 'Comentario');
 define('TABLE_HEADING_CUSTOMERS', 'Cliente');
@@ -75,16 +75,6 @@ define('TEXT_UNPAID', 'No pagado');
 
 define('TEXT_ALL_ORDERS', 'Todos los Pedidos');
 
-define('EMAIL_SEPARATOR', '------------------------------------------------------');
-define('EMAIL_TEXT_SUBJECT', 'Actualización de su pedido');
-define('EMAIL_TEXT_ORDER_NUMBER', 'Número de pedido:');
-define('EMAIL_TEXT_INVOICE_URL', 'Pedido detallado:');
-define('EMAIL_TEXT_DATE_ORDERED', 'Fecha del Pedido:');
-define('EMAIL_TEXT_COMMENTS_UPDATE', '<strong>Comentario:</strong> ');
-define('EMAIL_TEXT_STATUS_UPDATED', 'Su pedido ha sido actualizado al siguiente estado:' . "\n");
-define('EMAIL_TEXT_STATUS_LABEL', '<strong>Nuevo estado:</strong> %s' . "\n\n");
-define('EMAIL_TEXT_STATUS_PLEASE_REPLY', 'Por favor, conteste a este email si tiene alguna pregunta.' . "\n");
-
 define('ERROR_ORDER_DOES_NOT_EXIST', 'Error: El pedido no existe.');
 define('SUCCESS_ORDER_UPDATED', 'Listo: El pedido ha sido actualizado correctamente.');
 define('WARNING_ORDER_NOT_UPDATED', 'Advertencia: No hay nada para cambiar. El pedido no fue actualizado.');
@@ -128,3 +118,4 @@ define('TEXT_INVALID_ORDER_STATUS', '<span class="alert">(Estado del Pedido No V
 
 define('BUTTON_TO_LIST', 'Listado de Pedidos');
 define('SELECT_ORDER_LIST', 'Ir a Pedido:');
+define('TEXT_INFO_ORDER_LANGUAGE', 'Idioma Pedido: ');

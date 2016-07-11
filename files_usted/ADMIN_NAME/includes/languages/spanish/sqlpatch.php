@@ -20,7 +20,7 @@
                               'de aquí, o subiendo un archivo de script suministrado (.SQL).<br />' .
                               'Al preparar scripts para ser utilizados con esta herramienta, NO incluya un prefijo de tabala, ya que esta herramienta ' .
                               'insertará automáticamente el prefijo requerido para la base de datos activa, basado en los parámetros en el archivo ' .
-                              'admin/includes/configure.php de la tienda (definición DB_PREFIX).<br /><br />' .
+                              '/includes/configure.php de la tienda (definición DB_PREFIX).<br /><br />' .
                               'Los comandos introducidos o subidos sólo pueden empezar con las siguientes sentencia, y DEBEN estar en MAYÚSCULAS:'.
                               '<br /><ul><li>DROP TABLE IF EXISTS</li><li>CREATE TABLE</li><li>INSERT INTO</li><li>ALTER TABLE</li>' .
                               '<li>UPDATE (sólo una tabla)</li><li>DELETE FROM</li><li>DROP INDEX</li><li>CREATE INDEX</li>' .
