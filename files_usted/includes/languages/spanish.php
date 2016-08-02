@@ -435,7 +435,7 @@
   define('ERROR_PRODUCT', '<br />El articulo: ');
   define('ERROR_PRODUCT_STATUS_SHOPPING_CART','<br />Lo sentimos pero este producto ha sido retirado de nuestro inventario.<br />Este producto ha sido eliminado de su carro. Contáctenos para más información.');
   define('ERROR_PRODUCT_ATTRIBUTES','<br />El artículo: ');
-  define('ERROR_PRODUCT_STATUS_SHOPPING_CART','<br />Lo sentimos pero las opciones elegidas para este producto han sido modificadas y no están disponibles actualmente.<br />Este producto ha sido eliminado de su carro.');
+  define('ERROR_PRODUCT_STATUS_SHOPPING_CART_ATTRIBUTES','<br />Lo sentimos pero las opciones elegidas para este producto han sido modificadas y no están disponibles actualmente.<br />Este producto ha sido eliminado de su carro.');
   define('ERROR_PRODUCT_QUANTITY_MIN',' ... Errores de cantidad mínima - ');
   define('ERROR_PRODUCT_QUANTITY_UNITS',' ... Errores de las cantidades de unidades - ');
   define('ERROR_PRODUCT_OPTION_SELECTION','<br /> ... Valores no válidos para la opción seleccionada ');
