@@ -19,8 +19,8 @@ define('ICON_IMAGE_TINYCART', 'cart.gif');
 define('ICON_ERROR_ALT', 'Error');
 define('ICON_SUCCESS_ALT', 'Éxito');
 define('ICON_WARNING_ALT', 'Aviso');
-define('ICON_TRASH_ALT', 'Pinche en este icono para eliminar este producto del carro');
-define('ICON_UPDATE_ALT', 'Para cambiar la cantidad, seleccione la cantidad actual en la casilla, corrige la cantidad y piche este botón.');
-define('ICON_TINYCART_ALT', 'Pinche aquí para añadir este producto al carro.');
+define('ICON_TRASH_ALT', 'Borrar');
+define('ICON_UPDATE_ALT', 'Actualizar');
+define('ICON_TINYCART_ALT', 'Añadir');
 
 ?>
