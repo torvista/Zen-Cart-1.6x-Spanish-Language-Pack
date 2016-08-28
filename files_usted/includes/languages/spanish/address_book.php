@@ -26,7 +26,7 @@ define('NAVBAR_TITLE_2', 'Agenda de Direcciones');
 define('HEADING_TITLE', 'Mi Agenda Personal de Direcciones');
 
 define('PRIMARY_ADDRESS_TITLE', 'Dirección Principal');
-define('PRIMARY_ADDRESS_DESCRIPTION', 'Dirección preseleccionada para envío y facturación.<br /><br />También se utiliza como base para el cálculo de los impuestos de servicio y de productos.');
+define('PRIMARY_ADDRESS_DESCRIPTION', 'Dirección preseleccionada para envío y facturación.<br /><br />También se utiliza como base para el cálculo de impuestos.');
 
 define('ADDRESS_BOOK_TITLE', 'Direcciones de la Agenda');
 

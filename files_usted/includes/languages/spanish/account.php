@@ -15,7 +15,7 @@ define('OVERVIEW_SHOW_ALL_ORDERS', '(mostrar todos los pedidos)');
 define('OVERVIEW_PREVIOUS_ORDERS', 'Pedidos Anteriores');
 define('TABLE_HEADING_DATE', 'Fecha');
 define('TABLE_HEADING_ORDER_NUMBER', 'Nº.');
-define('TABLE_HEADING_SHIPPED_TO', 'Enviar a');
+define('TABLE_HEADING_SHIPPED_TO', 'Enviado a');
 define('TABLE_HEADING_STATUS', 'Estado');
 define('TABLE_HEADING_TOTAL', 'Total');
 define('TABLE_HEADING_VIEW', 'Ver');
