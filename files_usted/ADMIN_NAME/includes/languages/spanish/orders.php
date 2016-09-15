@@ -41,12 +41,12 @@ define('TABLE_HEADING_CUSTOMER_NOTIFIED', 'Cliente Notificado');
 define('TABLE_HEADING_DATE_ADDED', 'Fecha Añadido');
 
 define('ENTRY_CUSTOMER', 'Cliente:');
-define('ENTRY_CUSTOMER_ADDRESS', 'Dirección Cliente:<br><i class="fa fa-2x fa-user"></i>');
+define('ENTRY_CUSTOMER_ADDRESS', 'Dirección Cliente:');
 define('ENTRY_SOLD_TO', 'VENDIDO A:');
 define('ENTRY_DELIVERY_TO', 'Entregar a:');
 define('ENTRY_SHIP_TO', 'ENVIAR A:');
-define('ENTRY_SHIPPING_ADDRESS', 'Dirección de Envío:<br><i class="fa fa-2x fa-truck"></i>');
-define('ENTRY_BILLING_ADDRESS', 'Dirección de Facturación:<br><i class="fa fa-2x fa-credit-card"></i>');
+define('ENTRY_SHIPPING_ADDRESS', 'Dirección de Envío:');
+define('ENTRY_BILLING_ADDRESS', 'Dirección de Facturación:');
 define('ENTRY_PAYMENT_METHOD', 'Método de pago:');
 define('ENTRY_CREDIT_CARD_TYPE', 'Tipo de tarjeta:');
 define('ENTRY_CREDIT_CARD_OWNER', 'Nombre de la tarjeta:');
@@ -67,7 +67,7 @@ define('ENTRY_PRINTABLE', 'Imprimir Pedido');
 define('TEXT_INFO_HEADING_DELETE_ORDER', 'Eliminar Pedido');
 define('TEXT_INFO_DELETE_INTRO', '¿Seguro que desea eliminar este pedido?');
 define('TEXT_INFO_RESTOCK_PRODUCT_QUANTITY', 'Reponer cantidad del producto');
-define('TEXT_DATE_ORDER_CREATED', 'Fecha de Creación:');
+define('TEXT_DATE_ORDER_CREATED', 'Fecha:');
 define('TEXT_DATE_ORDER_LAST_MODIFIED', 'Última Modificación:');
 define('TEXT_INFO_PAYMENT_METHOD', 'Método de Pago:');
 define('TEXT_PAID', 'Pagado');
@@ -108,7 +108,7 @@ define('TEXT_MASK_CC_NUMBER','Esconder este número');
 define('TEXT_INFO_EXPIRED_DATE', 'Fecha de Caducidad:<br />');
 define('TEXT_INFO_EXPIRED_COUNT', 'Cuenta de Caducidad:<br />');
 
-define('TABLE_HEADING_CUSTOMER_COMMENTS', 'Comentario');
+define('TABLE_HEADING_CUSTOMER_COMMENTS', 'Nota');//short of space in this table
 define('TEXT_COMMENTS_YES', 'Comentarios de Cliente - SI');
 define('TEXT_COMMENTS_NO', 'Comentarios de Cliente - NO');
 
@@ -118,4 +118,4 @@ define('TEXT_INVALID_ORDER_STATUS', '<span class="alert">(Estado del Pedido No V
 
 define('BUTTON_TO_LIST', 'Listado de Pedidos');
 define('SELECT_ORDER_LIST', 'Ir a Pedido:');
-define('TEXT_INFO_ORDER_LANGUAGE', 'Idioma Pedido: ');
+define('TEXT_INFO_ORDER_LANGUAGE', 'Idioma del Pedido: ');

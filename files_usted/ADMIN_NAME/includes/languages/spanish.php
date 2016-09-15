@@ -704,8 +704,8 @@ define('WARNING_ADMIN_FOLDERNAME_VULNERABLE', 'AVISO: <a href="http://tutorials.
 define('WARNING_EMAIL_SYSTEM_DISABLED', 'AVISO: El envío de los emails está deshabilitado. Puede habilitarlo en Admin->Configuración->Opciones de Email.');
 define('TEXT_CURRENT_VER_IS', 'Actualmente esta utilizando: ');
 define('ERROR_NO_DATA_TO_SAVE', 'ERROR: Datos vacios. SUS CAMBIOS *NO* HAN SIDO GUARDADOS. Posiblemente hay un problema con su navegador o su conexión a internet.');
-define('TEXT_HIDDEN', 'Ocultos');
-define('TEXT_VISIBLE', 'Visibles');
+define('TEXT_HIDDEN', 'Invisible al cliente');
+define('TEXT_VISIBLE', 'Visible al cliente');
 define('TEXT_HIDE', 'Ocultar');
 define('TEXT_EMAIL', 'Email');
 define('TEXT_NOEMAIL', 'No Email');

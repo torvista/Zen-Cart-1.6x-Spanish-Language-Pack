@@ -15,7 +15,7 @@ define('HEADING_TITLE', '¡Muchas gracias por su confianza!');
 define('TEXT_SUCCESS', '');
 define('TEXT_NOTIFY_PRODUCTS', 'Avísame cuando haya cambios en los siguientes productos:');
 define('TEXT_SEE_ORDERS', 'Puede ver su historial de pedidos yendo a <a href="' . zen_href_link(FILENAME_ACCOUNT, '', 'SSL') . '">Mi Cuenta</a> y pulsando en "Ver todos los pedidos".');
-define('TEXT_SEE_ORDERS_GUEST', 'You can view your order history by going to the <a href="' . zen_href_link(FILENAME_ORDER_STATUS, '', 'SSL') . '" name="linkMyAccount">Order Status</a> page.');//TODO steve
+define('TEXT_SEE_ORDERS_GUEST', 'Se puede ver el historial de sus pedidos en <a href="' . zen_href_link(FILENAME_ORDER_STATUS, '', 'SSL') . '" name="linkMyAccount">Estado de Pedidos</a>.');
 define('TEXT_CONTACT_STORE_OWNER', 'Por favor, dirija cualquier pregunta que tenga a <a href="' . zen_href_link(FILENAME_CONTACT_US, '', 'SSL') . '" name="linkContactUs">atención al cliente</a>.');
 define('TEXT_THANKS_FOR_SHOPPING', '¡Muchas gracias por su confianza!');
 
