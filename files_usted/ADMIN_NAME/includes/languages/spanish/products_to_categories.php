@@ -41,8 +41,8 @@ define('TEXT_SET_MASTER_CATEGORIES_ID', '<strong>AVISO:</strong> Es imprescindib
 // copy category to category linked
 define('TEXT_INFO_COPY_ALL_PRODUCTS_TO_CATEGORY_LINKED', '<strong>Copiar TODOS los productos en una categoría como productos ENLAZADOS a otra categoría ...</strong><br />Ejemplo: Usando 8 y 22 quiero enlazar TODOS los productos de la categoría 8 a la categoría 22');
 define('TEXT_INFO_COPY_ALL_PRODUCTS_TO_CATEGORY_FROM_LINKED', 'Seleccionar todos los productos en la categoría: ');
-define('TEXT_INFO_COPY_ALL_PRODUCTS_TO_CATEGORY_TO_LINKED', 'Enlace a categoría: ');
-define('BUTTON_COPY_CATEGORY_LINKED', 'Copiar producto como enlazado ');
+define('TEXT_INFO_COPY_ALL_PRODUCTS_TO_CATEGORY_TO_LINKED', 'Enlazar a categoría: ');
+define('BUTTON_COPY_CATEGORY_LINKED', 'Copiar productos como enlazados ');
 
 define('WARNING_PRODUCTS_LINK_TO_CATEGORY_REMOVED', 'AVISO: El producto ha sido reseteado y ahora no pertenece a este categoría ...');
 define('WARNING_COPY_LINKED', 'ATENCIÓN: ');
