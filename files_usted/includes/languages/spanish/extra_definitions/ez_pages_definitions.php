@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
+<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**ñ
  * ezpages language components - used when displaying components for EZ-Pages content
  *

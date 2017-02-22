@@ -1,4 +1,4 @@
-<?php //Spanish Language Pack for Zen Cart 1.6: https://github.com/torvista/Zen-Cart-1.6-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2016 Zen Cart Development Team
@@ -96,6 +96,7 @@
 
 // information box text in sideboxes/information.php
   define('BOX_HEADING_INFORMATION', 'Información');
+  define('BOX_INFORMATION_ABOUT_US', 'Sobre Nosotros');
   define('BOX_INFORMATION_PRIVACY', 'Aviso de privacidad');
   define('BOX_INFORMATION_CONDITIONS', 'Condiciones de uso');
   define('BOX_INFORMATION_SHIPPING', 'Envío y devoluciones');
@@ -221,6 +222,18 @@
 
   define('FORM_REQUIRED_INFORMATION', '* Información obligatoria');
   define('ENTRY_REQUIRED_SYMBOL', '*');
+
+  // search validation errors
+  define('TEXT_NO_PRODUCTS', 'No hay productos que coincidan con su criterio de búsqueda.');
+  define('ERROR_AT_LEAST_ONE_INPUT', 'Debe rellenar al menos uno de los campos.');
+  define('ERROR_INVALID_FROM_DATE', 'Fecha desde no válida.');
+  define('ERROR_INVALID_TO_DATE', 'Fecha hasta no válida.');
+  define('ERROR_TO_DATE_LESS_THAN_FROM_DATE', 'La Fecha hasta debe ser mayor o igual a la Fecha desde.');
+  define('ERROR_PRICE_FROM_MUST_BE_NUM', 'El Precio desde debe ser un número.');
+  define('ERROR_PRICE_TO_MUST_BE_NUM', 'El Precio hasta debe ser un número.');
+  define('ERROR_PRICE_TO_LESS_THAN_PRICE_FROM', 'El Precio hasta debe ser mayor o igual al Precio desde.');
+  define('ERROR_INVALID_KEYWORDS', 'Palabras no válidas.');
+
 
   // constants for use in zen_prev_next_display function
   define('TEXT_RESULT_PAGE', '');
@@ -355,7 +368,7 @@
   define('PRODUCT_PRICE_DISCOUNT_AMOUNT', '&nbsp;descuento');
 
 // Sale Maker Sale Price
-  define('PRODUCT_PRICE_SALE','<span class="sale-banner">Sale:</span> ');//TODO
+  define('PRODUCT_PRICE_SALE','<span class="sale-banner">Rebajas:</span> ');
 
 // banner_box
   define('BOX_HEADING_BANNER_BOX', 'Patrocinador');
@@ -447,6 +460,8 @@
 
   define('WARNING_SHOPPING_CART_COMBINED', 'AVISO: Para su comodidad, en el carro permanecen los productos añadidos en su última visita. Por favor, revise su carro antes de finalizar la sesión.');
   define('WARNING_PRODUCT_QUANTITY_ADJUSTED', 'La cantidad ha sido ajustada al nivel de stock actual. ');
+
+  define('ERROR_TEXT_INVALID_INPUT_MAKE_ANOTHER_SELECTION', 'Entrada No Válida. Elija otra opción.');
 
 // error on checkout when $_SESSION['customers_id' does not exist in customers table
   define('ERROR_CUSTOMERS_ID_INVALID', 'La información del usuario no puede ser validada!<br />Por favor, conéctese o abra una nueva cuenta. ...');
