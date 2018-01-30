@@ -14,7 +14,7 @@
 define ('EMAIL_EXTRA_HEADER_INFO', '');
 
 if (!defined('EMAIL_FOOTER_COPYRIGHT')) define('EMAIL_FOOTER_COPYRIGHT','Derechos (c) ' . date('Y') . ' <a href="' . zen_catalog_href_link(FILENAME_DEFAULT) . '" target="_blank">' . STORE_NAME . '</a>. Basado en <a href="http://www.zen-cart.com" target="_blank">Zen Cart</a>');
-define ('EMAIL_LOGO_FILENAME', 'header.jpg');  //-File is present in /email folder
+define ('EMAIL_LOGO_FILENAME', 'header.jpg');  //-File is present in /email folder NOT /es/email!! function zen_build_html_email_from_template does not take language into account
 define ('EMAIL_LOGO_WIDTH', '550');
 define ('EMAIL_LOGO_HEIGHT', '110');
 define ('EMAIL_LOGO_ALT_TITLE_TEXT', STORE_NAME);

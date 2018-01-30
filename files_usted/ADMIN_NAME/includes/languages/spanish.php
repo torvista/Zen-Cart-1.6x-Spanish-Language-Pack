@@ -488,7 +488,6 @@ define('NOT_INSTALLED_TEXT', 'No Instalado');
   define('BOX_TOOLS_LAYOUT_CONTROLLER', 'Disposición de los Cuadros');
 
 // check GV release queue and alert store owner
-  define('SHOW_GV_QUEUE',true);
   define('TEXT_SHOW_GV_QUEUE', '%s esperando aprobación ');
   define('IMAGE_GIFT_QUEUE', 'Lista de ' . TEXT_GV_NAME);
   define('IMAGE_ORDER', 'Pedido');

@@ -220,7 +220,7 @@
   define('ENTRY_PASSWORD_NEW_ERROR_NOT_MATCHING', 'La confirmación de la contraseña debe ser igual a la nueva contraseña.');
   define('PASSWORD_HIDDEN', '--OCULTO--');
 
-  define('FORM_REQUIRED_INFORMATION', '* Información obligatoria');
+  define('FORM_REQUIRED_INFORMATION', '* Campo obligatorio');
   define('ENTRY_REQUIRED_SYMBOL', '*');
 
   // search validation errors
