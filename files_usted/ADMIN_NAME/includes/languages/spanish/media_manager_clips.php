@@ -11,7 +11,6 @@ define('HEADING_TITLE', 'Clips Enlazados- ');
 define('TEXT_LEAD_ACTION_LIST', 'Mostrar Clips Enlazados');
 define('TEXT_LEAD_ACTION_ADD_ENTRY', 'Añadir Clip Enlazado');
 define('TEXT_DISPLAY_NUMBER_OF_LINKED_CLIPS', 'Mostrando <strong>%d</strong> a <strong>%d</strong> (de <strong>%d</strong> clips enlazados)');
-
 define('TABLE_HEADING_MEDIA_CLIP_NAME', 'Clip de Media');
 define('TEXT_SELECT_MAIN_MEDIA_DIRECTORY', 'Carpeta Principal de Medios');
 define('TEXT_PARENT_COLLECTION', 'Coleción de Medios Padre');

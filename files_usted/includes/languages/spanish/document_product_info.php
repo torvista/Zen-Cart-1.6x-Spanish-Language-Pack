@@ -1,7 +1,7 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
- * @copyright Copyright 2003-2007 Zen Cart Development Team
+ * @copyright Copyright 2003-2015 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: document_product_info.php 6371 2007-05-25 19:55:59Z ajeh $
@@ -17,7 +17,6 @@ define('TEXT_PRODUCT_OPTIONS', 'Escoja, por favor:');
 define('TEXT_PRODUCT_MANUFACTURER', 'Fabricado por: ');
 define('TEXT_PRODUCT_WEIGHT', 'Peso: ');
 define('TEXT_PRODUCT_QUANTITY', ' Unidades en stock');
-define('TEXT_PRODUCT_MODEL', 'Modelo: ');
 
 
 
@@ -44,4 +43,4 @@ define('ATTRIBUTES_PRICE_DELIMITER_PREFIX', ' ( ');
 define('ATTRIBUTES_PRICE_DELIMITER_SUFFIX', ' )');
 define('ATTRIBUTES_WEIGHT_DELIMITER_PREFIX', ' (');
 define('ATTRIBUTES_WEIGHT_DELIMITER_SUFFIX', ') ');
-?>
+

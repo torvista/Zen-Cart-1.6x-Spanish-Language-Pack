@@ -1,7 +1,7 @@
 <?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
-/** TODO ALL
+/** TODO - Check
  * @package languageDefines
- * @copyright Copyright 2003-2016 Zen Cart Development Team
+ * @copyright Copyright 2003-2017 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: gv_faq.php $
@@ -82,4 +82,3 @@ pulse el botón de canjear. El código será
 
   define('TEXT_GV_REDEEM_INFO', 'Por favor, ingrese el código del ' . TEXT_GV_NAME . ': ');
   define('TEXT_GV_REDEEM_ID', 'Código:');
-?>

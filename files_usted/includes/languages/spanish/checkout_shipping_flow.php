@@ -1,5 +1,5 @@
 <?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
-/**
+/**TODO why is there a @
  * @package languageDefines
  * @copyright Copyright 2003-2015 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
@@ -19,7 +19,7 @@ define('TEXT_ENTER_SHIPPING_INFORMATION', 'Actualmente este es el único método
 define('TITLE_NO_SHIPPING_AVAILABLE', 'Actualmente no disponible');
 define('TEXT_NO_SHIPPING_AVAILABLE', '<span class="alert">Actualmente no enviamos pedidos a su zona.</span><br /> Contáctenos para las opciones alternativas.');
 define('TABLE_HEADING_COMMENTS', 'Instrucciones Especiales o comentarios acerca de su pedido');
-define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'Siga al Paso 2');
+@define('TITLE_CONTINUE_CHECKOUT_PROCEDURE', 'Siga al Paso 2');
 define('TEXT_CONTINUE_CHECKOUT_PROCEDURE', ' - elegir el método de pago.');
 
 // when free shipping for orders over $XX.00 is active

@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2016 Zen Cart Development Team
@@ -46,8 +46,8 @@
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_ADDR_ERROR', 'La dirección no es válida o no coincide con nuestra información. Corrija o elija otra dirección e intente otra vez.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_CONFIRMEDADDR_ERROR', 'La dirección que seleccionó en PayPal no es una dirección confirmada. Vuelva a PayPal y elija o añada una dirección confirmada e intente otra vez.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_INSUFFICIENT_FUNDS_ERROR', 'PayPal no pudo pagar esta transacción. Elija otra método de pago o compruebe las opciones de pago de su cuenta PayPal antes de seguir.');
+  define('MODULE_PAYMENT_PAYPALWPP_TEXT_PAYPAL_DECLINED', 'Disculpe. PayPal ha denegado la transacción y nos ha avisado que debería ponerse en contacto con Atención al Cliente PayPal para más información. Para completar la compra ahora, debería eligir otro método de pago.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_ERROR', 'Ocurrió un error cuando intentamos procesar su tarjeta de crédito. Inténtelo otra vez, elija un método de pago alternativo o póngase en contacto con la tienda para obtener asistencia.');
-  define('MODULE_PAYMENT_PAYPALWPP_TEXT_BAD_CARD', 'Disculpe las molestias  pero no aceptamos su tipo de tarjeta de crédito. Utilice otra tarjeta o compruebe que los datos son correctos o póngase en contacto con la tienda para obtener asistencia.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_BAD_CARD', 'Disculpe pero no aceptamos el tipo de tarjeta que introduzco. Por favor, utilice otra tarjeta.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_BAD_LOGIN', 'Hubo un problema en la validación de su cuenta. Inténtelo de nuevo.');
   define('MODULE_PAYMENT_PAYPALWPP_TEXT_JS_CC_OWNER', '* El nombre del propietario de la tarjeta debe tener al menos'. CC_OWNER_MIN_LENGTH . ' caracteres.\n');

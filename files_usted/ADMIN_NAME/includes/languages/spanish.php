@@ -748,3 +748,19 @@ define('TEXT_FIELD_ERROR_GENERIC', 'Introducza la información correcta aquí');
 define('TEXT_AUTOCOMPLETE_DEFAULT_PLACEHOLDER', 'Buscar o Seleccionar abajo');
 define('TEXT_DELETE_LINKED_ITEMS', 'Borrar Productos Enlazados');
 define('TEXT_DELETE_IMAGE', 'Borrar Imagen Enlazado');
+define('TEXT_PAGE_TOTALS', 'Totales');
+// notifications
+
+define('TEXT_HEADER_NOTIFICATIONS_COUNT', 'Tiene %s notificaciones');
+define('TEXT_HEADER_GV_QUEUE', 'Cola Tarjetas Regalo .. %s Articulo(s)');
+
+
+// date ranges
+
+define('TEXT_SELECT_DATE_RANGE', 'Elija Rango de Fechas');
+define('TEXT_DATE_RANGE_TODAY', 'Hoy');
+define('TEXT_DATE_RANGE_YESTERDAY', 'Ayer');
+define('TEXT_DATE_RANGE_LAST_7_DAYS', 'Últimos 7 días');
+define('TEXT_DATE_RANGE_LAST_30_DAYS', 'Últimos 30 días');
+define('TEXT_DATE_RANGE_THIS_MONTH', 'Este mes');
+define('TEXT_DATE_RANGE_LAST_MONTH', 'Ültimo Mes');

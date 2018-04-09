@@ -27,4 +27,4 @@ define('NO_INFORMATION_SCHEMA_TABLE_FOUND', 'Tabla INFORMATION_SCHEMA.TABLES no 
 define('NO_NEW_PAGES', 'Ninguna página nueva Admin');
 define('NO_NEW_TABLES', 'Ninguna tabla nueva');
 define('MISSING_ADMIN_PAGES_WHY', 'Resulta de una migración de una modificación de estilo pre-1.5.0 que tiene entradas/referencias en Admin->Configuration, sin crear entradas para las páginas Admin.'); 
-define('NO_MISSING_ADMIN_PAGES', 'No falta ninguna página Admin');//TODO
+define('NO_MISSING_ADMIN_PAGES', 'No falta ninguna página Admin');

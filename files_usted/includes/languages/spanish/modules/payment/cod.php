@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 //ñ
 // +----------------------------------------------------------------------+
 // |zen-cart Open Source E-commerce                                       |
@@ -20,6 +20,6 @@
 // $Id: cod.php 1969 2005-09-13 06:57:21Z drbyte $
 //
 
-  define('MODULE_PAYMENT_COD_TEXT_TITLE', 'Contra reembolso');
-  define('MODULE_PAYMENT_COD_TEXT_DESCRIPTION', 'Pago contra reembolso');
+  define('MODULE_PAYMENT_COD_TEXT_TITLE', 'Contrareembolso');
+  define('MODULE_PAYMENT_COD_TEXT_DESCRIPTION', 'Pago Contrareembolso');
 ?>

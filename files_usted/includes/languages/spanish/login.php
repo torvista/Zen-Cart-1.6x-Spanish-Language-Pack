@@ -38,3 +38,6 @@ define('ERROR_SECURITY_ERROR', 'Se ha producido un error de seguridad en el proc
 
 
 define('TEXT_LOGIN_BANNED', 'Error: Acceso denegado.');
+
+define('TEXT_LOGIN_ERROR_EMAIL', 'Disculpe, ese email no existe en nuestro base de datos.');
+define('TEXT_LOGIN_ERROR_PASSWORD', 'Disculpe, esa contraseña parece incorrecta.');

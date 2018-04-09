@@ -1,4 +1,4 @@
-<?php
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2013 Zen Cart Development Team
@@ -7,9 +7,9 @@
  * @version $Id: flatmultiple.php $
  */
 
-define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_TITLE', 'Flat Multiple');
-define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_DESCRIPTION', 'Flat Rate Multiple');
-define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_WAY', 'Best Way');
+define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_TITLE', 'Tarifa Plana Multiple');
+define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_DESCRIPTION', 'Tarifa Plana Multiple');
+define('MODULE_SHIPPING_FLATMULTIPLE_TEXT_WAY', 'Mensajería');
 
 
 // The following is for defining multiple locations/methods on a per-language basis. It is only used if the shopper has selected a language other than the store's default.

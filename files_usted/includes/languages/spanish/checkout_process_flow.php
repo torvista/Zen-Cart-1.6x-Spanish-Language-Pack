@@ -1,4 +1,4 @@
-<?php
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2015 Zen Cart Development Team
@@ -7,8 +7,8 @@
  * @version $Id: New in V1.6.0 $
  */
 
-define('EMAIL_TEXT_SUBJECT', 'Confirmación de pedido');
-define('EMAIL_TEXT_HEADER', 'Confirmación de pedido');
+define('EMAIL_TEXT_SUBJECT', 'Confirmación de Pedido');
+define('EMAIL_TEXT_HEADER', 'Confirmación de Pedido');
 define('EMAIL_TEXT_FROM',' de ');  //added to the EMAIL_TEXT_HEADER, above on text-only emails
 define('EMAIL_THANKS_FOR_SHOPPING', '¡Muchas gracias por su confianza!');
 define('EMAIL_DETAILS_FOLLOW','A continuación le presentamos los detalles de su pedido.');
@@ -28,7 +28,7 @@ define('EMAIL_TEXT_PAYMENT_METHOD', 'Método de pago');
 define('EMAIL_SEPARATOR', '------------------------------------------------------');
 define('TEXT_EMAIL_VIA', 'vía');
 
-// suggest not using # vs No as some spam protection block emails with these subjects
+// suggest not using # vs No as some spamm protection block emails with these subjects
 define('EMAIL_ORDER_NUMBER_SUBJECT', ' Núm.: ');
 define('HEADING_ADDRESS_INFORMATION', 'Información de dirección');
 define('HEADING_SHIPPING_METHOD', 'Método de envío');

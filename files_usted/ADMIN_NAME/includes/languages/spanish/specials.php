@@ -20,7 +20,7 @@ define('TABLE_HEADING_ACTION', 'Acción');
 define('TEXT_SPECIALS_PRODUCT', 'Producto:');
 define('TEXT_SPECIALS_SPECIAL_PRICE', 'Precio de Oferta:');
 
-define('TEXT_PRE_ADD_SPECIAL_PRICE_RANGE_FROM', 'Rango de Precio del Producto:');//TODO
+define('TEXT_PRE_ADD_SPECIAL_PRICE_RANGE_FROM', 'Rango de Precio del Producto:');
 define('TEXT_PRE_ADD_SPECIAL_PRICE_RANGE_TO', 'a:');
 
 define('TEXT_SPECIALS_EXPIRES_DATE', 'Fecha de Caducidad:');

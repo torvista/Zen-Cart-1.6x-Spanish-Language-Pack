@@ -1,5 +1,5 @@
 <?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
-/**
+/**TODO
  * @package admin
  * @copyright Copyright 2003-2016 Zen Cart Development Team
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
@@ -24,16 +24,26 @@ define('SALES_GRAPH_REPORT_GROUP', 'Ventas');
 
 // Entries in dashboard_widgets_description
 define('GENERAL_STATISTICS', 'Estadísticas Generales');
+define('GENERAL_STATISTICS_DESCRIPTION', 'Current value of various counters');
 define('ORDER_STATISTICS', 'Estadísticas de Pedidos');
 define('ORDER_SUMMARY', 'Resumen Pedido');
+define('ORDER_SUMMARY', 'Counts of orders in each state');
 define('NEW_CUSTOMERS', 'Clientes Nuevos');
+define('NEW_CUSTOMERS', 'Customers who have created accounts recently');
 define('COUNTER_HISTORY', 'Historial Contador');
+define('COUNTER_HISTORY', 'Hit counter over last 14 days');
 define('NEW_ORDERS', 'Pedidos Nuevos');
+define('NEW_ORDERS', 'Recently received orders with names and amounts');
 define('LOGS', 'Historiales Debug');
+define('LOGS', 'Shows debug logs if any exist');
 define('BANNER_STATISTICS', 'Estadísticas Banner');
+define('BANNER_STATISTICS_DESCRIPTION', 'Shows statistics for last 12 months');
 define('WHOSONLINE_ACTIVITY', 'Visitores Activos');
+define('WHOSONLINE_ACTIVITY_DESCRIPTION', 'Counts of active visitors with and without carts');
 define('COUNTER_HISTORY_GRAPH', 'Historial Contador - Últimos 14 días');
+define('COUNTER_HISTORY_GRAPH_DESCRIPTION', 'Shows counter history graph for last 14 days');
 define('SALES_GRAPH_REPORT', 'Ventas');
+define('SALES_GRAPH_REPORT_DESCRIPTION', 'Graph of recent sales activity');
 
 define('TEXT_TOTAL_LOGFILES_FOUND', '<br>Nota: Hay %s archivos historiales en el servidor.');
 define('TEXT_DISPLAYING_RECENT_COUNT', ' (Mostrando solamente los %s archivos más recientes.)');

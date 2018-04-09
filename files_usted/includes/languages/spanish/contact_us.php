@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2011 Zen Cart Development Team
@@ -18,6 +18,6 @@ define('ENTRY_ENQUIRY', 'Mensaje:');
 
 define('SEND_TO_TEXT', 'Enviar email a:');
 define('ENTRY_EMAIL_NAME_CHECK_ERROR', 'Por favor, no olvide escribir bien su nombre. El sistema requiere un mínimo de ' . ENTRY_FIRST_NAME_MIN_LENGTH . ' caracteres para el nombre.');
-define('ENTRY_EMAIL_CONTENT_CHECK_ERROR', 'Por favor, rellene el campo de \"Mensaje\".');//escaped quotes as gets used in javascript
+define('ENTRY_EMAIL_CONTENT_CHECK_ERROR', '¿Se olvidó su mensaje? Por favor, rellene el campo inferior.');
 
 define('NOT_LOGGED_IN_TEXT', 'No ha entrado en su cuenta');

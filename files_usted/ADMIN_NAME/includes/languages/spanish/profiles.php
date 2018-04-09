@@ -11,7 +11,7 @@ define('HEADING_TITLE_ALL_PROFILES', 'Perfiles de Usuarios');
 define('HEADING_TITLE_INDIVIDUAL_PROFILE', 'Perfil para %s ');
 define('HEADING_TITLE_NEW_PROFILE', 'Perfil nuevo para ');
 
-define('TEXT_CONFIRM_DELETE', '¿Borrar cuenta Admin? Confirmar: ');//TODO
+define('TEXT_CONFIRM_DELETE', '¿Borrar Perfil Admin? Confirmar: ');
 define('ERROR_NO_PROFILE_DEFINED', 'La opción solicitada no está disponible sin especificar un perfil');
 define('ERROR_NO_PROFILE_NAME', 'Teclee un nombre para el perfil nuevo');
 define('ERROR_INVALID_PROFILE_NAME', 'Teclee un nombre válido para el perfil.');

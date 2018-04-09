@@ -1,7 +1,7 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
- * @copyright Copyright 2003-2007 Zen Cart Development Team
+ * @copyright Copyright 2003-2015 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: product_info.php 6371 2007-05-25 19:55:59Z ajeh $
@@ -17,7 +17,6 @@ define('TEXT_PRODUCT_OPTIONS', 'Por favor, elija:');
 define('TEXT_PRODUCT_MANUFACTURER', 'Fabricado por: ');
 define('TEXT_PRODUCT_WEIGHT', 'Peso del producto: ');
 define('TEXT_PRODUCT_QUANTITY', ' Unidades en Stock');
-define('TEXT_PRODUCT_MODEL', 'Modelo: ');
 
 
 
@@ -36,8 +35,8 @@ define('IMAGE_BUTTON_RETURN_TO_PRODUCT_LIST', 'Volver a la lista de productos');
 define('TEXT_ATTRIBUTES_PRICE_WAS',' [antes: ');
 define('TEXT_ATTRIBUTE_IS_FREE',' ahora: Gratis]');
 define('TEXT_ONETIME_CHARGE_SYMBOL', ' *');
-define('TEXT_ONETIME_CHARGE_DESCRIPTION', ' Los cargos se aplicarán una sola vez');
-define('TEXT_ATTRIBUTES_QTY_PRICE_HELP_LINK', 'Descuentos disponibles por cantidad');
+define('TEXT_ONETIME_CHARGE_DESCRIPTION', ' Se puede aplicar Cargos de Una Vez');
+define('TEXT_ATTRIBUTES_QTY_PRICE_HELP_LINK', 'Descuentos por Cantidad disponibles');
 define('ATTRIBUTES_QTY_PRICE_SYMBOL', zen_image(DIR_WS_TEMPLATE_ICONS . 'icon_status_green.gif', TEXT_ATTRIBUTES_QTY_PRICE_HELP_LINK, 10, 10) . '&nbsp;');
 
 define('ATTRIBUTES_PRICE_DELIMITER_PREFIX', ' ( ');
@@ -45,4 +44,4 @@ define('ATTRIBUTES_PRICE_DELIMITER_SUFFIX', ' )');
 define('ATTRIBUTES_WEIGHT_DELIMITER_PREFIX', ' (');
 define('ATTRIBUTES_WEIGHT_DELIMITER_SUFFIX', ') ');
 
-?>
+

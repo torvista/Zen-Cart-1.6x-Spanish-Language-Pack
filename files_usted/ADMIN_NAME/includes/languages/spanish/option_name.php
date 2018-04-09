@@ -7,14 +7,14 @@
  * @version GIT: $Id: Modified in v1.6.0 $
  */
 
-  define('HEADING_TITLE', 'Órdenes de las Opciones');
-  define('TEXT_EDIT_ALL', 'Editando todos los nombres de las Opciones');
+  define('HEADING_TITLE', 'Órden de los Nombres de Opciones');
+  define('TEXT_EDIT_ALL', 'Editando todos los Nombres de Opciones');
   define('TEXT_CURRENT_NAME', 'Nombre Actual');
   define('TEXT_SORT_ORDER', 'Orden');
   define('TEXT_UPDATE_SORT_ORDER', 'Actualizar Orden');
   define('TEXT_OPTION_ID', 'ID Opción');
   define('TEXT_OPTION_TYPE', 'Tipo');
   define('TEXT_OPTION_NAME', 'Nombre de Opción');
-  define('TEXT_SELECTED_LANGUAGE', 'Idioma: ');
+  define('TEXT_SELECTED_LANGUAGE', 'Idioma Elegida: ');
 
-  define('SUCCESS_OPTION_SORT_ORDER', 'Los Órdenes de los Nombres de las Opciones han sido actualizados correctamente');
+  define('SUCCESS_OPTION_SORT_ORDER', 'El Órden de los Nombres de Opciones ha sido actualizado');

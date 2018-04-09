@@ -8,9 +8,9 @@
  */
 
 // NOTE: As of v1.6.0, this has been converted into a LEAD page.  See:
-// includes/library/zencart/QueryBuilderDefinitions/src/definitions/ReportStatsCustomers.php
+// includes/library/zencart/ListingQueryAndOutput/src/definitions/ReportStatsCustomers.php
 
-define('HEADING_TITLE', 'Los Mejores Pedidos-Total');
+define('HEADING_TITLE', 'Los Pedidos Mayores-Total');
 
 define('TABLE_HEADING_NUMBER', 'ID#');
 define('TABLE_HEADING_CUSTOMERS', 'Clientes');

@@ -139,7 +139,7 @@ define('TEXT_COPY_AS_DUPLICATE', 'Duplicar producto');
 
   define('TEXT_PRODUCTS_PRICED_BY_ATTRIBUTES', 'El Precio de los productos sube por los atributos:');
   define('TEXT_PRODUCT_IS_PRICED_BY_ATTRIBUTE', 'Sí');
-  define('TEXT_PRODUCT_NOT_PRICED_BY_ATTRIBUTE', 'No');
+  define('TEXT_PRODUCT_NOT_PRICED_BY_ATTRIBUTE','No');
   define('TEXT_PRODUCTS_PRICED_BY_ATTRIBUTES_PREVIEW', '*Al mostrarse el precio se incluirá el precio del grupo de atributos más bajo, más el precio del producto');
   define('TEXT_PRODUCTS_PRICED_BY_ATTRIBUTES_EDIT', '*Al mostrarse el precio se incluirá el precio del grupo de atributos más bajo, más el precio del producto');
 

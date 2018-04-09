@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2005 Zen Cart Development Team
@@ -9,7 +9,7 @@
 
 
 define('NAVBAR_TITLE_1', 'Comprar');
-define('NAVBAR_TITLE_2', 'Cambiar la dirección de Facturación');
+define('NAVBAR_TITLE_2', 'Cambiar la Dirección de Facturación');
 
 define('HEADING_TITLE', 'Cambiar la información de Facturación');
 

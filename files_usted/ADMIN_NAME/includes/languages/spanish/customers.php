@@ -1,10 +1,10 @@
 <?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package admin
- * @copyright Copyright 2003-2016 Zen Cart Development Team
+ * @copyright Copyright 2003-2017 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
- * @version $Id: customers.php 6352 2007-05-20 21:05:01Z drbyte $
+ * @version $Id: customers.php $
  */
 
 define('HEADING_TITLE', 'Clientes');
@@ -67,6 +67,8 @@ define('ADDRESS_BOOK_TITLE', 'Direcciones');
 define('PRIMARY_ADDRESS', '(dirección por defecto)');
 define('TEXT_MAXIMUM_ENTRIES', '<span class="coming"><strong>NOTA:</strong></span> Hay un máximo de %s direcciónes permitidos en la agenda.');
 define('TEXT_INFO_ADDRESS_BOOK_COUNT', ' | 1 de  ');
+
+define('ENTRY_EMAIL_NEVER_SEND_EMAILS', 'Nunca (Nota: está opción evitará el envío de TODOS los emails, ¡incluso los de Confirmación de Pedido!)');
 
 // Title of column in customer overview admin page
 define('TABLE_HEADING_ACCOUNT_TYPE', 'Tipo de Cuenta');

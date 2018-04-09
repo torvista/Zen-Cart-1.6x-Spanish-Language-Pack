@@ -108,6 +108,7 @@ define('COUPON_FINISHDATE_HELP', 'Fecha en la que caduca el cupón.');
 define('COUPON_FREE_SHIP_HELP', 'El cupón permite el envío gratis en un pedido independientemente del valor del cupón, pero respeta el valor mínimo del pedido.');
 define('COUPON_DESC_HELP', 'Descripción del cupón para el cliente, que aparece en los datos del historial de los pedidos.');
 define('COUPON_MIN_ORDER_HELP', 'Valor mínimo del pedido para que el cupón sea válido.');
+define('COUPON_TOTAL_HELP', 'If you specify a Coupon Minimum Order for this Discount Coupon, do you want the Minimum amount to be based on Allowed Products according to Coupon Restriction Rules or the Full Order Total, when determining if the Coupon Minimum Order has been met?<br />NOTE: Full Order Total means at least 1 of the Qualifying Restricted Products must be in the cart for the Discount Coupon to work.');
 define('COUPON_USES_COUPON_HELP', 'Número máximo de veces que el cupón puede ser usado. Déjelo en blanco si no hay límite.');
 define('COUPON_USES_USER_HELP', 'Número máximo de veces que un usuario puede usar un cupón. Déjelo en blanco si no hay límite.');
 define('COUPON_PRODUCTS_HELP', 'Una lista de product_ids (IDs de productos) separados por comas para los que este cupón puede ser usado. Dejar en blanco si no hay restricciones.');

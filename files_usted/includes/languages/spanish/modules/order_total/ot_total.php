@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 // ñ
 // +----------------------------------------------------------------------+
 // |zen-cart Open Source E-commerce                                       |
@@ -21,5 +21,5 @@
 //
 
   define('MODULE_ORDER_TOTAL_TOTAL_TITLE', 'Total');
-  define('MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION', 'Total del pedido');
+  define('MODULE_ORDER_TOTAL_TOTAL_DESCRIPTION', 'Total del Pedido');
 ?>

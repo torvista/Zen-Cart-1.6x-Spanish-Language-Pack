@@ -1,14 +1,14 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
-/**
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+/**TODO these are Gift Voucher not Discount Coupon
  * @package languageDefines
- * @copyright Copyright 2003-2007 Zen Cart Development Team
+ * @copyright Copyright 2003-2014 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
  * @version $Id: ot_gv.php 6099 2007-04-01 10:22:42Z wilt $
  */
 
   define('MODULE_ORDER_TOTAL_GV_TITLE', TEXT_GV_NAMES);
-  define('MODULE_ORDER_TOTAL_GV_HEADER', TEXT_GV_NAMES . '/Cupones de descuento');
+  define('MODULE_ORDER_TOTAL_GV_HEADER', TEXT_GV_NAMES . '/Cupones de Descuento');
   define('MODULE_ORDER_TOTAL_GV_DESCRIPTION', TEXT_GV_NAMES);
   define('SHIPPING_NOT_INCLUDED', ' [Envío no incluido]');
   define('TAX_NOT_INCLUDED', ' [Impuestos no incluidos]');

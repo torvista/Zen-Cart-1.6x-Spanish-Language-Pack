@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
  * @copyright Copyright 2003-2006 Zen Cart Development Team
@@ -14,6 +14,6 @@ define('NAVBAR_TITLE', 'Comentarios');
 //define('SUB_TITLE_REVIEW', 'Comentarios:');
 //define('SUB_TITLE_RATING', 'Calificación:');
 define('TEXT_OF_5_STARS', '');
-define('TEXT_PRODUCT_INFO', 'Mostrarme los detalles del producto');
-define('TEXT_REVIEW_ADDITIONAL', 'Leer más comentarios');
+define('TEXT_PRODUCT_INFO', 'Mostrarme los Detalles del Producto');
+define('TEXT_REVIEW_ADDITIONAL', 'Leer más Comentarios');
 ?>

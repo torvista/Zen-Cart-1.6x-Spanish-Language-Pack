@@ -1,5 +1,5 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
-/**
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+/**TODO
  * sagepay form language defines Spanish NOT DONE. If you need it, do it and send it to me for inclusion, gracias.
  *
  * @package paymentMethod

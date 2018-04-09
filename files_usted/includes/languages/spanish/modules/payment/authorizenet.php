@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * Authorize.net SIM Payment Module
  *
@@ -20,9 +20,9 @@
   }
 
   define('MODULE_PAYMENT_AUTHORIZENET_TEXT_TYPE', 'Tipo:');
-  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_OWNER', 'Propietario de la tarjeta:');
-  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_NUMBER', 'Número de la tarjeta:');
-  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_EXPIRES', 'Fecha de caducidad de la tarjeta:');
+  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_OWNER', 'Dueño de la Tarjeta:');
+  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_NUMBER', 'Número de la Tarjeta:');
+  define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CREDIT_CARD_EXPIRES', 'Fecha de caducidad de la Tarjeta:');
   define('MODULE_PAYMENT_AUTHORIZENET_TEXT_CVV', 'Número CVV :');
   define('MODULE_PAYMENT_AUTHORIZENET_TEXT_POPUP_CVV_LINK', '¿Qué es esto?');
   define('MODULE_PAYMENT_AUTHORIZENET_TEXT_JS_CC_OWNER', '* El nombre del propietario de la tarjeta debe tener al menos ' . CC_OWNER_MIN_LENGTH . ' caracteres.\n');

@@ -1,10 +1,10 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 /**
  * @package languageDefines
- * @copyright Copyright 2003-2013 Zen Cart Development Team
+ * @copyright Copyright 2003-2014 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
- * @version GIT: $Id: Author: DrByte  Wed Nov 6 20:54:59 2013 -0500 Modified in v1.5.2 $
+ * @version $Id: popup_coupon_help.php 14141 2009-08-10 19:34:47Z wilt $
  */
 
 define('HEADING_COUPON_HELP', 'Ayuda de los Cupones de Descuento');
@@ -20,7 +20,8 @@ define('TEXT_COUPON_HELP_RESTRICT', '<br /><br />Restricción por Productos/Cate
 define('TEXT_COUPON_HELP_CATEGORIES', 'Categoría');
 define('TEXT_COUPON_HELP_PRODUCTS', 'Producto');
 define('TEXT_ALLOW', 'Permitir');
-define('TEXT_DENY', 'Denegar');
+define('TEXT_DENY', 'No Permitir');
+define('TEXT_NO_PROD_SALES', '<p>Este cupón no es válido para productos en oferta.</p>');
 
 define('TEXT_ALLOWED', ' (Permitido)');
 define('TEXT_DENIED', ' (Denegado)');
@@ -32,5 +33,4 @@ define('TEXT_NO_PROD_RESTRICTIONS', '<p> Este Cupón es válido para todos los p
 // gift certificates cannot be purchased with Discount Coupons
 define('TEXT_COUPON_GV_RESTRICTION', 'Los Cupones de Descuento no se aplican a la compra de ' . TEXT_GV_NAMES . '.');
 
-define('TEXT_COUPON_GV_RESTRICTION_ZONES', 'Existen restricciones en función de la dirección de facturación.');
-
+define('TEXT_COUPON_GV_RESTRICTION_ZONES', 'Existen restricciones en función de la Dirección de Facturación.');

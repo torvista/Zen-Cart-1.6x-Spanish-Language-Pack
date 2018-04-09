@@ -1,4 +1,4 @@
-<?php //TODO Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
+<?php //Spanish Language Pack for Zen Cart 1.6x: https://github.com/torvista/Zen-Cart-1.6x-Spanish-Language-Pack
 //
 // +----------------------------------------------------------------------+
 // |zen-cart Open Source E-commerce                                       |
@@ -21,8 +21,8 @@
 //
 
   define('MODULE_ORDER_TOTAL_SHIPPING_TITLE', 'Envío');
-  define('MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION', 'Coste del envío');
+  define('MODULE_ORDER_TOTAL_SHIPPING_DESCRIPTION', 'Coste del Envío');
 
-  define('FREE_SHIPPING_TITLE', 'Envío gratis');
+  define('FREE_SHIPPING_TITLE', 'Envío Gratis');
   define('FREE_SHIPPING_DESCRIPTION', 'Los envíos son gratis para pedidos superiores a %s');
 ?>
