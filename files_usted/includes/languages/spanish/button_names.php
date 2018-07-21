@@ -82,7 +82,7 @@ define('BUTTON_DELETE_ALT', 'Borrar');
 define('BUTTON_DELETE_SMALL_ALT', 'Borrar');
 define('BUTTON_DOWNLOAD_ALT', 'Descargar Ahora');
 define('BUTTON_EDIT_SMALL_ALT', 'Editar');
-define('BUTTON_IN_CART_ALT', 'Añadir al carro');
+define('BUTTON_IN_CART_ALT', 'Añadir al Carro');
 define('BUTTON_LOGIN_ALT', 'Entrar');
 define('BUTTON_LOOKUP_ALT', 'Buscar');
 define('BUTTON_MY_ACCOUNT_TEXT', 'Mi Cuenta');
