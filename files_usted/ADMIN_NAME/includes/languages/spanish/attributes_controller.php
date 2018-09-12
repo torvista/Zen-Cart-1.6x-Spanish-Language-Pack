@@ -87,16 +87,16 @@ define('TABLE_TEXT_MAX_COUNT_SHORT', 'Máx:');
   define('TEXT_ATTRIBUTES_IMAGE_DIR', 'Directorio de las imágenes de los atributos:');
 
   define('TEXT_ATTRIBUTES_FLAGS', 'Atributos:');
-  define('TEXT_ATTRIBUTES_DISPLAY_ONLY', 'Usado sólo<br />para articulos de muestra:');
-  define('TEXT_ATTRIBUTES_IS_FREE', 'Atributo gratis<br />Cuando el producto es gratis:');
-  define('TEXT_ATTRIBUTES_DEFAULT', 'Atributo por defecto<br />para marcar como seleccionado:');
-  define('TEXT_ATTRIBUTE_IS_DISCOUNTED', 'Aplicar los mismos descuentos<br />Usados por el producto:');
+  define('TEXT_ATTRIBUTES_DISPLAY_ONLY', 'Mostrar texto sólo<br />no es una elección:');
+  define('TEXT_ATTRIBUTES_IS_FREE', 'Atributo gratis<br />cuando el producto es gratis:');
+  define('TEXT_ATTRIBUTES_DEFAULT', 'Atributo por defecto<br />marcado como seleccionado:');
+  define('TEXT_ATTRIBUTE_IS_DISCOUNTED', 'Aplicar los mismos descuentos<br />usados por el producto:');
   define('TEXT_ATTRIBUTE_PRICE_BASE_INCLUDED', 'Incluir en el precio base<br />En precios c/atributos');
   define('TEXT_ATTRIBUTES_REQUIRED','Atributo Requerido<br />para Texto:');
 
   define('LEGEND_BOX','Leyenda:');
   define('LEGEND_KEYS','Desactivado/Activado');
-  define('LEGEND_ATTRIBUTES_DISPLAY_ONLY', 'Mostrar sólo');
+  define('LEGEND_ATTRIBUTES_DISPLAY_ONLY', 'Solamente mostrar texto/no elección');
   define('LEGEND_ATTRIBUTES_IS_FREE', 'Gratis');
   define('LEGEND_ATTRIBUTES_DEFAULT', 'Por defecto');
   define('LEGEND_ATTRIBUTE_IS_DISCOUNTED', 'Descontado');
