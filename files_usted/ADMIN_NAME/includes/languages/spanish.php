@@ -20,12 +20,12 @@ define('HEADER_LOGO_HEIGHT', '70');//px removed for validation
 define('HEADER_LOGO_IMAGE', 'logo.gif');
 
 // include template specific meta tags defines
-  if (file_exists(DIR_FS_CATALOG_LANGUAGES . $_SESSION['language'] . '/' . $template_dir . '/meta_tags.php')) {
+  if (file_exists(DIR_FS_CATALOG_LANGUAGES . $_SESSION['language'] . '/' . $template_dir . '/metatags.php')) {
     $template_dir_select = $template_dir . '/';
   } else {
     $template_dir_select = '';
   }
-  require(DIR_FS_CATALOG_LANGUAGES . $_SESSION['language'] . '/' . $template_dir_select . 'meta_tags.php');
+  require(DIR_FS_CATALOG_LANGUAGES . $_SESSION['language'] . '/' . $template_dir_select . 'metatags.php');
 
 // used for prefix to browser tabs in admin pages
 define('TEXT_ADMIN_TAB_PREFIX', 'Admin ');
