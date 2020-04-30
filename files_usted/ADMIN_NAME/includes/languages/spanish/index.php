@@ -89,5 +89,23 @@ define('TEXT_FORM_LABEL_STORE_ZONE', 'Zona de la Tienda');
 define('TEXT_FORM_LABEL_STORE_ADDRESS', 'Dirección de la Tienda');
 define('TEXT_EXAMPLE_STORE_NAME', 'Nombre de la Tienda');
 define('TEXT_EXAMPLE_STORE_OWNER', 'Propietario de la Tienda - utiliado en emails, personaliza el contacto con el cliente');
+define('TEXT_EXAMPLE_STOREOWNEREMAIL', 'Store Owner Email Address'); 
 define('TEXT_EXAMPLE_STOREADDRESS', 'Dirección de la Tienda - utilizado en la página de Contáctenos y los comprobantes de pago/Albaranes');
 define('TEXT_STORE_DETAILS', 'Introduzca los datos de su tienda. Todos los campos son obligatorios');
+
+//======== dashboard widget settings @todo
+
+define('INPUT_LABEL_SOME_TEXT', 'Some Text');
+define('INPUT_LABEL_REFRESH_RATE', 'Refresh rate');
+define('INPUT_LABEL_SOME_BOOLEAN', 'Boolean');
+define('INPUT_LABEL_DATE_RANGE', 'Date Range');
+define('INPUT_LABEL_DATE_FROM', 'Date From');
+
+define('INPUT_LABEL_BANNER_ID', 'Banner Id');
+define('INPUT_LABEL_BANNER_DATE_RANGE', 'Date Range');
+define('INPUT_LABEL_BANNER_SHOW_LINES', 'Show Graph Lines');
+
+define('OPTIONS_DATERANGE_YEARLY', 'Yearly');
+define('OPTIONS_DATERANGE_MONTHLY', 'Monthly');
+define('OPTIONS_DATERANGE_DAILY', 'Daily');
+define('OPTIONS_DATERANGE_RECENT', 'Recent');

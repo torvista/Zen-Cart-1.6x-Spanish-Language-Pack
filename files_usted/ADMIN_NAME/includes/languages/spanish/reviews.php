@@ -44,4 +44,3 @@ define('TEXT_PENDING_APPROVAL','Pendiente de aprobación');
 define('TEXT_APPROVED','Aprobado');
 define('HEADING_TITLE_STATUS','Estado');
 
-define('TEXT_IMAGE_NONEXISTENT', 'IMAGEN NO EXISTE');

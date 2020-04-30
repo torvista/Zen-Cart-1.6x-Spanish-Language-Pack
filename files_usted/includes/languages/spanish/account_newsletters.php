@@ -17,4 +17,3 @@ define('MY_NEWSLETTERS_GENERAL_NEWSLETTER', 'Boletín General');
 define('MY_NEWSLETTERS_GENERAL_NEWSLETTER_DESCRIPTION', 'Incluye novedades de la tienda, nuevos productos, ofertas especiales y diversos anuncios de carácter promocional.');
 
 define('SUCCESS_NEWSLETTER_UPDATED', 'Su suscripción a los boletines ha sido actualizada satisfactoriamente.');
-?>

@@ -21,7 +21,7 @@
 //
   define('HEADING_TITLE', 'Orden por defecto de los Valores de las Opciones');
   define('TEXT_UPDATE_OPTION_VALUES', 'Actualizar orden de los Valores de las Opciones');
-define('TEXT_SELECT_OPTION', 'Seleccionar un Nombre de Opción:');
+  define('TEXT_SELECT_OPTION', 'Seleccionar un Nombre de Opción:');
   define('TEXT_EDIT_OPTION_NAME', 'Editando un Nombre de Opción: ');
   define('TEXT_NO_OPTION_VALUE', 'No hay Valores de Opciones definidos para <br />Nombre de Opción: ');
   define('TEXT_UPDATE_SUBMIT', 'Actualizar Orden');

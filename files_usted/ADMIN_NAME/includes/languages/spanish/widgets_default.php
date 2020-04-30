@@ -25,7 +25,6 @@ define('SALES_GRAPH_REPORT_GROUP', 'Ventas');
 // Entries in dashboard_widgets_description
 define('GENERAL_STATISTICS', 'Estadísticas Generales');
 define('GENERAL_STATISTICS_DESCRIPTION', 'Current value of various counters');
-define('ORDER_STATISTICS', 'Estadísticas de Pedidos');
 define('ORDER_SUMMARY', 'Resumen Pedido');
 define('ORDER_SUMMARY', 'Counts of orders in each state');
 define('NEW_CUSTOMERS', 'Clientes Nuevos');
@@ -69,6 +68,10 @@ define('SALES_GRAPH_TEXT_CLICK', 'Pinche aquí para los detalles completos...');
 define('SALES_GRAPH_COLUMN_MONTH', 'Mes');
 define('SALES_GRAPH_COLUMN_SALES', 'Ventas');
 
+
+define('TEXT_DASHBOARD_ADD_WIDGETS', '+ Add Widget(s)');
+define('TITLE_MODAL_DASHBOARD_ADD_WIDGETS', 'Add Widget');
+define('TITLE_MODAL_DASHBOARD_WIDGETS_SETTINGS', 'Widget Settings');
 
 
 /* NOTE: defines for additional contributed "plugin" widgets should be placed into

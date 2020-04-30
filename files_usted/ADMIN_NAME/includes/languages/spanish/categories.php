@@ -30,7 +30,6 @@ define('TEXT_PRODUCTS_QUANTITY_INFO', 'Cantidad:');
 define('TEXT_DATE_ADDED', 'Agregado el:');
 define('TEXT_DATE_AVAILABLE', 'Fecha de disponibilidad:');
 define('TEXT_LAST_MODIFIED', 'Última modificación:');
-define('TEXT_IMAGE_NONEXISTENT', 'LA IMAGEN NO EXISTE');
 define('TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS', 'Por favor, introduzca una nueva categoría o producto en este nivel.');
 define('TEXT_PRODUCT_MORE_INFORMATION', 'Por favor, para más información visite la <a href="http://%s" target="blank">web oficial</a> de este producto.');
 define('TEXT_PRODUCT_DATE_ADDED', 'Este producto fue introducido en nuestro catálogo el %s.');

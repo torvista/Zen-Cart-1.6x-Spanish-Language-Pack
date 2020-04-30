@@ -36,4 +36,3 @@ define('TEXT_CHOOSE_PROFILE', 'Elegir Perfil');
 define('ERROR_NO_USER_DEFINED', 'No se puede llevar a cabo la opción elegida sin elegir un usuario');
 define('SUCCESS_NEW_USER_ADDED', 'Usuario nuevo añadido');
 define('SUCCESS_USER_DETAILS_UPDATED', 'Detalles de Usuario Actualizados');
-define('SUCCESS_PASSWORD_UPDATED', 'Contraseña Actualizada');

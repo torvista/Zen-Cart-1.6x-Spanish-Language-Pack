@@ -100,6 +100,7 @@ define('BOX_MODULES_PAYMENT', 'Pago');
 define('BOX_MODULES_SHIPPING', 'Envío');
 define('BOX_MODULES_ORDER_TOTAL', 'Total de Pedido');
 define('BOX_MODULES_PRODUCT_TYPES', 'Tipos de producto');
+define('BOX_MODULES_PLUGINS', 'Plugins');
 
 // categories box text
 define('BOX_HEADING_CATALOG', 'Catálogo');
@@ -195,6 +196,7 @@ define('BOX_ADMIN_ACCESS_LOGS', 'Historiales de Actividad Admin');
 define('IMAGE_RELEASE', 'Canjear ' . TEXT_GV_NAME);
 
 // javascript messages
+define('JS_ERROR_SUBMITTED', 'This form has already been submitted. Please press OK and wait for this process to be completed.');
 define('JS_ERROR', '¡Hubo errores al procesar su formulario!\nPor favor, haga las siguientes correcciones:\n\n');
 
 define('JS_OPTIONS_VALUE_PRICE', '* El nuevo atributo de producto necesita un valor de precio\n');
@@ -352,6 +354,8 @@ define('IMAGE_REMOVE_SPECIAL', 'Quitar Info de Precio Especial');
 define('IMAGE_REMOVE_FEATURED', 'Quitar Info de Producto Destacado');
 define('IMAGE_INSTALL_SPECIAL', 'Añadir Info de Precio Especial');
 define('IMAGE_INSTALL_FEATURED', 'Añadir Info de Producto Destacado');
+define('TEXT_IMAGE_NONEXISTENT', 'IMAGE DOES NOT EXIST');
+
 
 define('TEXT_VERSION_CHECK_BUTTON', 'Comprobar Actualizaciones');
 define('TEXT_BUTTON_RESET_ACTIVITY_LOG', 'Ver el Historial de Actividad');
@@ -400,8 +404,6 @@ define('TEXT_DISPLAY_NUMBER_OF_PRODUCTS', 'Mostrando del <b>%d</b> al <b>%d</b> 
 define('TEXT_DISPLAY_NUMBER_OF_PRODUCT_TYPES', 'Mostrando del <b>%d</b> al <b>%d</b> (de <b>%d</b> tipos de productos)');
 define('TEXT_DISPLAY_NUMBER_OF_PRODUCTS_EXPECTED', 'Mostrando del <b>%d</b> al <b>%d</b> (de <b>%d</b> productos esperados)');
 define('TEXT_DISPLAY_NUMBER_OF_REVIEWS', 'Mostrando del <b>%d</b> al <b>%d</b> (de <b>%d</b> productos comentados)');
-define('TEXT_DISPLAY_NUMBER_OF_RECORD_ARTISTS', 'Mostrando del <b>%d</b> a <b>%d</b> (de <b>%d</b> artistas)');
-define('TEXT_DISPLAY_NUMBER_OF_RECORD_COMPANIES', 'Mostrando del <b>%d</b> a <b>%d</b> (de <b>%d</b> discográficas)');
 define('TEXT_DISPLAY_NUMBER_OF_SALES', 'Mostrando de la <b>%d</b> a la <b>%d</b> (de <b>%d</b> rebajas)');
 define('TEXT_DISPLAY_NUMBER_OF_SPECIALS', 'Mostrando del <b>%d</b> al <b>%d</b> (de <b>%d</b> productos en oferta)');
 define('TEXT_DISPLAY_NUMBER_OF_TAX_CLASSES', 'Mostrando del <b>%d</b> al <b>%d</b> (de <b>%d</b> clases de impuesto)');
@@ -764,3 +766,6 @@ define('TEXT_DATE_RANGE_LAST_7_DAYS', 'Últimos 7 días');
 define('TEXT_DATE_RANGE_LAST_30_DAYS', 'Últimos 30 días');
 define('TEXT_DATE_RANGE_THIS_MONTH', 'Este mes');
 define('TEXT_DATE_RANGE_LAST_MONTH', 'Ültimo Mes');
+
+
+define('TEXT_NONEXISTENT_IMAGE', '');

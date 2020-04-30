@@ -35,7 +35,6 @@ define('TEXT_INFO_DISPLAY_PRICE', 'Mostrar precio:<br />');
 define('TEXT_INFO_AVAILABLE_DATE', 'Disponible el:');
 define('TEXT_INFO_EXPIRES_DATE', 'Caduca el:');
 define('TEXT_INFO_STATUS_CHANGE', 'Último cambio de estado:');
-define('TEXT_IMAGE_NONEXISTENT', 'La imagen no existe');
 
 define('TEXT_INFO_HEADING_DELETE_SPECIALS', 'Eliminar oferta');
 define('TEXT_INFO_DELETE_INTRO', '¿Seguro que desea eliminar el precio de oferta del producto?');

@@ -77,7 +77,6 @@ define('TEXT_INFO_PERCENTAGE', 'Porcentaje:');
 define('TEXT_INFO_AVAILABLE_DATE', 'Disponible el:');
 define('TEXT_INFO_EXPIRES_DATE', 'Caduca el:');
 define('TEXT_INFO_STATUS_CHANGE', 'Último cambio de estado:');
-define('TEXT_IMAGE_NONEXISTENT', 'No existe la imagen');
 
 define('TEXT_INFO_HEADING_DELETE_FEATURED', 'Borrar Destacado');
 define('TEXT_INFO_DELETE_INTRO', '¿Estás seguro de que deseas borrar el Producto Destacado?');

@@ -40,7 +40,6 @@ define('TEXT_DATE_ADDED', 'Añadido el:');
 define('TEXT_LAST_MODIFIED', 'Última modificación:');
 define('TEXT_PRODUCTS', 'Productos:');
 define('TEXT_PRODUCTS_IMAGE_DIR', 'Subir a directorio:');
-define('TEXT_IMAGE_NONEXISTENT', 'NO EXISTE LA IMAGEN');
 define('TEXT_MASTER_TYPE', 'Este tipo de producto debe considerarse un subtipo de ');
 
 define('TEXT_NEW_INTRO', 'Por favor, rellene la siguiente información para el nuevo fabricante');

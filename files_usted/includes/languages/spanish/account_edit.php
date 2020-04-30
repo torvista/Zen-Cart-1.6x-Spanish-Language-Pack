@@ -13,4 +13,3 @@ define('NAVBAR_TITLE_2', 'Editar Cuenta');
 define('HEADING_TITLE', 'Datos Personales');
 
 define('SUCCESS_ACCOUNT_UPDATED', 'Su cuenta ha sido actualizada correctamente.');
-?>

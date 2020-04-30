@@ -4,12 +4,14 @@
  * @copyright Copyright 2003-2018 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
- * @version $Id: Author: DrByte  Modified in v1.5.6 $
+ * @version $Id: Drbyte Thu Jan 11 13:27:48 2018 -0500 Modified in v1.5.6 $
  */
+
 
 /**
  * define the button images used in the project
  */
+
 define('BUTTON_IMAGE_ADD_TO_CART', 'button_add_to_cart.gif');
 define('BUTTON_IMAGE_ADD_ADDRESS', 'button_add_address.gif');
 define('BUTTON_IMAGE_ADD_PRODUCTS_TO_CART','button_add_selected.gif');

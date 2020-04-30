@@ -4,7 +4,7 @@
  * @copyright Copyright 2003-2015 Zen Cart Development Team
  * @copyright Portions Copyright 2003 osCommerce
  * @license http://www.zen-cart.com/license/2_0.txt GNU Public License V2.0
- * @version $Id: meta_tags.php  Modified in v1.5.4 $
+ * @version $Id: metatags.php  Modified in v1.5.4 $
  */
 
 // page title
@@ -28,19 +28,19 @@ define('CUSTOM_KEYWORDS', 'e-comercio, comercio, electrónico, código abierto, 
 // If you wish to use defaults for any of the 3 items for a given page, simply do not define it.
 // (ie: the Title tag is best not set, so that site-wide defaults can be used.)
 // repeat pattern as necessary
-  define('META_TAG_DESCRIPTION_EZPAGE_#','');
-  define('META_TAG_KEYWORDS_EZPAGE_#','');
-  define('META_TAG_TITLE_EZPAGE_#', '');
+  define('METATAG_DESCRIPTION_EZPAGE_#','');
+  define('METATAG_KEYWORDS_EZPAGE_#','');
+  define('METATAG_TITLE_EZPAGE_#', '');
 
 // Per-Page meta-tags. Follow this pattern for individual pages you wish to override. This is useful mainly for additional pages.
 // replace "page_name" with the UPPERCASE name of your main_page= value, such as ABOUT_US or SHIPPINGINFO etc.
 // repeat pattern as necessary
-  define('META_TAG_DESCRIPTION_page_name','');
-  define('META_TAG_KEYWORDS_page_name','');
-  define('META_TAG_TITLE_page_name', '');
+  define('METATAG_DESCRIPTION_page_name','');
+  define('METATAG_KEYWORDS_page_name','');
+  define('METATAG_TITLE_page_name', '');
 
 // Review Page can have a lead in:
-  define('META_TAGS_REVIEW', 'Comentarios: ');
+  define('METATAGS_REVIEW', 'Comentarios: ');
 
 // separators for meta tag definitions
 // Define Primary Section Output
@@ -57,6 +57,6 @@ define('CUSTOM_KEYWORDS', 'e-comercio, comercio, electrónico, código abierto, 
 
 // Define which pages to tell robots/spiders not to index
 // This is generally used for account-management pages or typical SSL pages, and usually doesn't need to be touched.
-  define('ROBOTS_PAGES_TO_SKIP','login,logoff,create_account,account,account_edit,account_history,account_history_info,account_newsletters,account_notifications,account_password,address_book,advanced_search,advanced_search_result,checkout_success,checkout_process,checkout_shipping,checkout_payment,checkout_confirmation,cookie_usage,create_account_success,contact_us,download,download_timeout,customers_authorization,down_for_maintenance,password_forgotten,time_out,unsubscribe,info_shopping_cart,gv_faq,gv_redeem,gv_send,popup_image,popup_image_additional,product_reviews_write,ssl_check,shopping_cart,no_account,order_status');
+  define('ROBOTS_PAGES_TO_SKIP','login,logoff,create_account,account,account_edit,account_history,account_history_info,account_newsletters,account_notifications,account_password,address_book,advanced_search,advanced_search_result,checkout_success,checkout_process,checkout_shipping,checkout_payment,checkout_confirmation,cookie_usage,create_account_success,contact_us,download,download_timeout,customers_authorization,down_for_maintenance,password_forgotten,time_out,unsubscribe,info_shopping_cart,gv_faq,gv_redeem,gv_send,popup_image,popup_image_additional,product_reviews_write,shopping_cart,no_account,order_status');
 
 

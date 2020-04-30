@@ -30,7 +30,6 @@ define('TEXT_PRODUCTS_QUANTITY_INFO', 'Cantidad:');
 define('TEXT_DATE_ADDED', 'Agregado el:');
 define('TEXT_DATE_AVAILABLE', 'Fecha de disponibilidad:');
 define('TEXT_LAST_MODIFIED', 'Última modificación:');
-define('TEXT_IMAGE_NONEXISTENT', 'LA IMAGEN NO EXISTE');
 define('TEXT_NO_CHILD_CATEGORIES_OR_PRODUCTS', 'Por favor, introduzcae una nueva categoría o producto en este nivel.');
 define('TEXT_PRODUCT_MORE_INFORMATION', 'Para más información visite la <a href="http://%s" target="blank">web oficial</a> de este producto.');
 define('TEXT_PRODUCT_DATE_ADDED', 'Este producto fue introducido a nuestro catálogo el %s.');
@@ -165,13 +164,13 @@ define('TEXT_COPY_AS_DUPLICATE', 'Duplicar producto');
   define('TEXT_ATTRIBUTE_COPY_UPDATING', '<strong>Actualizando desde el atributo</strong> ');
 
 // meta tags
-  define('TEXT_META_TAG_TITLE_INCLUDES','<strong>Marcar qué ha de incluir el título de la meta tag del documento:</strong>');
+  define('TEXT_METATAG_TITLE_INCLUDES','<strong>Marcar qué ha de incluir el título de la meta tag del documento:</strong>');
   define('TEXT_PRODUCTS_METATAGS_PRODUCTS_NAME_STATUS','<strong>Nombre del documento:</strong>');
   define('TEXT_PRODUCTS_METATAGS_TITLE_STATUS','<strong>Título:</strong>');
   define('TEXT_PRODUCTS_METATAGS_MODEL_STATUS','<strong>Modelo:</strong>');
   define('TEXT_PRODUCTS_METATAGS_PRICE_STATUS','<strong>Precio:</strong>');
   define('TEXT_PRODUCTS_METATAGS_TITLE_TAGLINE_STATUS','<strong>Título/Tagline:</strong>');
-  define('TEXT_META_TAGS_TITLE','<strong>Título de meta tag:</strong>');
-  define('TEXT_META_TAGS_KEYWORDS','<strong>Palabras clave de meta tag:</strong>');
-  define('TEXT_META_TAGS_DESCRIPTION','<strong>Descripción de meta tag:</strong>');
+  define('TEXT_METATAGS_TITLE','<strong>Título de meta tag:</strong>');
+  define('TEXT_METATAGS_KEYWORDS','<strong>Palabras clave de meta tag:</strong>');
+  define('TEXT_METATAGS_DESCRIPTION','<strong>Descripción de meta tag:</strong>');
   define('TEXT_META_EXCLUDED', '<span class="alert">EXCLUIDO</span>');

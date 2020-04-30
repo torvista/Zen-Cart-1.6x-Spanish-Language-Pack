@@ -45,7 +45,6 @@ define('TEXT_PWDRESET_INTRO', 'Para resetear la contraseña para este cliente, i
 define('TEXT_CUST_NEW_PASSWORD', 'Contraseña Nueva:');
 define('TEXT_CUST_CONFIRM_PASSWORD', 'Confirmar Contraseña:');
 define('ERROR_PWD_TOO_SHORT', 'Error: la contraseña tiene menos caracteres de lo que precisa la configuración de esta tienda.');
-define('SUCCESS_PASSWORD_UPDATED', 'Contraseña cambiada.');
 
 define('EMAIL_CUSTOMER_PWD_CHANGE_MESSAGE', 'Su contraseña ha sido cambiada por el administrador de la tienda.' . "\n" . 'Su contraseña nueva es: ');
 define('EMAIL_CUSTOMER_PWD_CHANGE_SUBJECT', 'Cambio de Contraseña de Su Cuenta');

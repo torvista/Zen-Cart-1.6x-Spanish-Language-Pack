@@ -7,8 +7,6 @@
  * @version $Id: popup_coupon_help.php 14141 2009-08-10 19:34:47Z wilt $
  */
 
-define('HEADING_COUPON_HELP', 'Ayuda de los Cupones de Descuento');
-define('TEXT_CLOSE_WINDOW', 'Cerrar Ventana [x]');
 define('TEXT_COUPON_HELP_HEADER', 'Felicidades, ha canjeado un Cupón de Descuento.');
 define('TEXT_COUPON_HELP_NAME', '<br /><br />Nombre del Cupón : %s');
 define('TEXT_COUPON_HELP_FIXED', '<br /><br />Este Cupón tiene la cantidad de %s de descuento en su pedido');
@@ -21,7 +19,6 @@ define('TEXT_COUPON_HELP_CATEGORIES', 'Categoría');
 define('TEXT_COUPON_HELP_PRODUCTS', 'Producto');
 define('TEXT_ALLOW', 'Permitir');
 define('TEXT_DENY', 'No Permitir');
-define('TEXT_NO_PROD_SALES', '<p>Este cupón no es válido para productos en oferta.</p>');
 
 define('TEXT_ALLOWED', ' (Permitido)');
 define('TEXT_DENIED', ' (Denegado)');
@@ -29,6 +26,7 @@ define('TEXT_DENIED', ' (Denegado)');
 define('TEXT_NO_CAT_TOP_ONLY_DENY', '<p>Este Cupón tiene restricciones por productos específicas.');
 define('TEXT_NO_CAT_RESTRICTIONS', '<p>Este Cupón es válido para todas las categorías.</p>');
 define('TEXT_NO_PROD_RESTRICTIONS', '<p> Este Cupón es válido para todos los productos.</p>');
+define('TEXT_NO_PROD_SALES', '<p>This coupon is not valid for products on sale.</p>');
 
 // gift certificates cannot be purchased with Discount Coupons
 define('TEXT_COUPON_GV_RESTRICTION', 'Los Cupones de Descuento no se aplican a la compra de ' . TEXT_GV_NAMES . '.');

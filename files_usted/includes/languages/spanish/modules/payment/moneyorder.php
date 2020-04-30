@@ -22,5 +22,6 @@
 
   define('MODULE_PAYMENT_MONEYORDER_TEXT_TITLE', 'Cheque/Ingreso en Cuenta Bancaria');
   define('MODULE_PAYMENT_MONEYORDER_TEXT_DESCRIPTION', 'Por favor, remita su cheque o giro postal a:&nbsp;' . MODULE_PAYMENT_MONEYORDER_PAYTO . '<br /><br />Envíe su pago por correo a:<br />' . nl2br(STORE_NAME_ADDRESS) . '<br /><br />' . 'El pedido no será enviado hasta que el pago sea recibido.');
+if (defined('MODULE_PAYMENT_MONEYORDER_STATUS')) {
   define('MODULE_PAYMENT_MONEYORDER_TEXT_EMAIL_FOOTER', "Por favor, remita su cheque o giro postal a: ". MODULE_PAYMENT_MONEYORDER_PAYTO . "\n\nEnvíe su pago por correo a:\n" . STORE_NAME_ADDRESS . "\n\n" . 'El pedido no será enviado hasta que el pago sea recibido.');
-?>
+}

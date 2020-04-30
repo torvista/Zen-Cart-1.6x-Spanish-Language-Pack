@@ -1,4 +1,5 @@
 Changelog
+2020 04 30 Revision of all files to match zencart-develop
 2018 04 09 Revision of all files to match zencart-develop
 2017 02 22 error strings moved from advanced_search/advanced_search result to main defines file.
 2016 06 05

@@ -14,6 +14,8 @@ define('TEXT_INFORMATION', '');
 define('TEXT_COUPON_FAILED', '<span class="alert important">%s</span> no parece ser un cupón de descuento válido. Pruebe a teclearlo de nuevo.');
 define('TEXT_COUPON_INACTIVE', '<span class="alert important">%s</span> se ha caducada o actualmente no está válido.');
 
+define('HEADING_COUPON_HELP', 'Discount Coupon Help');
+define('TEXT_CLOSE_WINDOW', 'Close Window [x]');
 define('TEXT_COUPON_HELP_HEADER', '<p class="bold">El código del cupón de descuento que ha introducido es para  ');
 define('TEXT_COUPON_HELP_NAME', '\'%s\'. </p>');
 define('TEXT_COUPON_HELP_FIXED', '');

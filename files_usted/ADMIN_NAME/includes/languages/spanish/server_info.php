@@ -18,6 +18,7 @@ define('TITLE_PHP_VERSION', 'Versión PHP:');
 define('TITLE_ZEND_VERSION', 'Zend:');
 define('TITLE_DATABASE_HOST', 'Servidor de la BBDD:');
 define('TITLE_DATABASE', 'Base de Datos:');
+define('TITLE_DATABASE_VERSION', 'Database Engine:');
 define('TITLE_DATABASE_DATE', 'Fecha de la BBDD:');
 define('TITLE_DATABASE_DATA_SIZE', 'Tamaño de la BBDD:');
 define('TITLE_DATABASE_INDEX_SIZE', 'Tamaño del Indice de la BBDD:');

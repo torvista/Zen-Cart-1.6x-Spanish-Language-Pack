@@ -53,7 +53,7 @@ define('ENTRY_CREDIT_CARD_OWNER', 'Nombre de la tarjeta:');
 define('ENTRY_CREDIT_CARD_NUMBER', 'Número de la tarjeta:');
 define('ENTRY_CREDIT_CARD_CVV', 'Número CVV de la tarjeta:');
 define('ENTRY_CREDIT_CARD_EXPIRES', 'Fecha de Caducidad de la Tarjeta:');
-define('ENTRY_SUB_TOTAL', 'Sub-total:');
+define('ENTRY_SUB_TOTAL', 'Sub-Total:');
 define('ENTRY_TAX', 'IVA:');
 define('ENTRY_SHIPPING', 'Envío:');
 define('ENTRY_TOTAL', 'Total:');
