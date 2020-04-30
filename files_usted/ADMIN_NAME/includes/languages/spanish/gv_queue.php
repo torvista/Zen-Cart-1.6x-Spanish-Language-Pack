@@ -7,7 +7,7 @@
  * @version $Id:  Modified in v1.6.0 $
  */
 
-define('HEADING_TITLE', 'Listado de los  ' .  TEXT_GV_NAMES ' para aprobar');
+define('HEADING_TITLE', 'Listado de los ' .  TEXT_GV_NAMES . ' para aprobar');
 
 define('TABLE_HEADING_CUSTOMERS', 'Cliente');
 define('TABLE_HEADING_ORDERS_ID', 'Nº Pedido');

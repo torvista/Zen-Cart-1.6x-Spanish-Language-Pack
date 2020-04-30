@@ -3,6 +3,6 @@
 return [
 
     'title-related-items' => 'Entradas relacionadas',
-    'button-title-add-entry' => Añadir Entrada Nueva',
+    'button-title-add-entry' => 'Añadir Entrada Nueva',
     'button-title-list-entries' => 'Mostrar Entradas'
 ];

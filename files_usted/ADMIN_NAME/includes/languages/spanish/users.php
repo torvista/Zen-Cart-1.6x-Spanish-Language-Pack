@@ -8,7 +8,7 @@
  */
 
 define('HEADING_TITLE', 'Usuarios Admin');
-
+define('IMAGE_ADD_USER', 'Añadir Usuario');
 define('TEXT_LEAD_ACTION_LIST', 'Mostrar Usuarios');
 define('TEXT_LEAD_ACTION_ADD_ENTRY', 'Añadir Usuario');
 

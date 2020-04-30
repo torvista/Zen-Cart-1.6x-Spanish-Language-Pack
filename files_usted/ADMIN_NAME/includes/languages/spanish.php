@@ -34,8 +34,8 @@ define('TEXT_ADMIN_TAB_PREFIX', 'Admin ');
 // meta tags
 define('ICON_METATAGS_ON', 'Meta Tags Definidas');
 define('ICON_METATAGS_OFF', 'Meta Tags No Definidas');
-define('TEXT_LEGEND_META_TAGS', 'Meta Tags Definidas:');
-define('TEXT_INFO_META_TAGS_USAGE', '<strong>NOTA:</strong> La tagline de tu página es tu definición de la página en el archivo meta_tags.php.');
+define('TEXT_LEGEND_METATAGS', 'Meta Tags Definidas:');
+define('TEXT_INFO_METATAGS_USAGE', '<strong>NOTA:</strong> La tagline de tu página es tu definición de la página en el archivo meta_tags.php.');
 
 // header text in includes/header.php
 define('HEADER_TITLE_TOP', 'Inicio');
